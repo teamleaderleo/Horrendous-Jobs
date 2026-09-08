@@ -55,7 +55,9 @@ Recurring achievements in the field of employment horror:
 
 ## Add a specimen
 
-Copy [`entries/TEMPLATE.md`](entries/TEMPLATE.md), fill in the evidence, and submit it.
+**[Nominate a horrendous job](https://github.com/teamleaderleo/Horrendous-Jobs/issues/new?template=horrendous-job.yml)** using the submission form. Bring a public posting and the evidence; the form collects everything needed to score and archive it.
+
+Want to contribute a finished dossier directly? Copy [`entries/TEMPLATE.md`](entries/TEMPLATE.md), fill it in, and submit the change.
 
 A strong entry includes:
 
