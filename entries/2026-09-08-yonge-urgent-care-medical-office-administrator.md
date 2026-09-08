@@ -70,3 +70,5 @@ The posting funnels nearly every non-physician moving part of a busy urgent-care
 ## Notes
 
 Indeed's metadata described the position as permanent part-time while the posting body described it as full-time. The discrepancy is preserved here.
+
+**Editorial note:** The title understates how much clinic throughput routes through this position. Patients, physicians, pharmacies, laboratories, imaging providers, billing, referrals, recalls, records, and selected clinical-support tasks all meet at the same desk. Starting pay is $20/hour while the posting asks for prior clinic experience, EMR familiarity, privacy knowledge, rotating evenings, and weekends.
