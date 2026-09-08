@@ -12,8 +12,13 @@ The goal is comedy **and** a usable dataset. Every entry records the advertised 
 |---:|---|---|---|---:|---|
 | **9.5** | Helia Capital | [Executive Assistant & Family Office Coordinator](entries/2026-09-07-helia-capital-executive-assistant-family-office-coordinator.md) | Toronto, ON | From CAD $70k | 👑 Royal Servant Award |
 | **9.5** | PheedLoop | [Customer Service Specialist — Logistics](entries/2026-09-07-pheedloop-customer-service-specialist-logistics.md) | Toronto, ON | CAD $50k | 🏔 Moving Mountains Award |
+| **9.5** | Ramachandran Law Holding Corporation | [Executive Assistant to Managing Director](entries/2026-09-07-ramachandran-law-executive-assistant-managing-director.md) | Scarborough, ON | CAD $45k–$55k | 👑 Royal Servant Award |
+| **9.5** | No Small Feast | [Event Coordinator](entries/2026-09-07-no-small-feast-event-coordinator.md) | Etobicoke, ON | CAD $50k–$60k | 🔥 Everything Is Urgent Award |
+| **8.8** | Kotn | [Marketing Coordinator](entries/2026-09-07-kotn-marketing-coordinator.md) | Toronto, ON | CAD $45k–$55k | 🧢 Seven Jobs in a Trench Coat |
+| **8.5** | Northcott Silk Inc. | [Licensing Marketing Coordinator](entries/2026-09-07-northcott-silk-licensing-marketing-coordinator.md) | Vaughan, ON | CAD $42k–$47k | 🏔 Moving Mountains Award |
 | **8.3** | Cineplex | [Account Coordinator, Media Sales](entries/2026-09-07-cineplex-account-coordinator-media-sales.md) | Toronto, ON | CAD $50k–$55k | 📨 Human Router Award |
 | **8.3** | Trevant | [Creator Operations Coordinator](entries/2026-09-07-trevant-creator-operations-coordinator.md) | Toronto, ON | CAD $45k–$60k | 🧢 Seven Jobs in a Trench Coat |
+| **8.3** | CMiC | [Project Coordinator](entries/2026-09-07-cmic-project-coordinator.md) | Toronto, ON | CAD $45k–$55k incl. bonus | 🎓 Degree Required to Send Follow-Ups Award |
 | **7.6** | Gensler | [Project Coordinator](entries/2026-09-07-gensler-project-coordinator.md) | Toronto, ON | CAD $65k–$72k | 📊 Spreadsheet Atlas Award |
 
 See [`entries/`](entries/) for the dossiers.
@@ -81,7 +86,7 @@ A strong finished entry includes:
 
 ## Status
 
-Started in Toronto in September 2026. Geographic expansion encouraged.
+Started in Toronto in September 2026. Ten specimens indexed so far. Geographic expansion encouraged.
 
 ---
 
