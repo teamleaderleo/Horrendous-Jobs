@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Read the Horrendous Score rubric
+    url: https://github.com/teamleaderleo/Horrendous-Jobs/blob/main/SCORING.md
+    about: See how scope creep, coordination burden, authority gaps, urgency, credentials, after-hours exposure, and compensation are scored.
