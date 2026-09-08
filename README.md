@@ -18,13 +18,18 @@ The goal is comedy **and** a usable dataset. Every entry records the advertised 
 | **9.5** | Impact Cleaning Services | [Quality and Service Specialist](entries/2026-09-07-impact-cleaning-quality-service-specialist.md) | Toronto, ON | CAD $45k–$50k + 5% bonus | 🏔 Moving Mountains Award |
 | **9.5** | Acupuncture Center Toronto | [Clinic Coordinator](entries/2026-09-07-acupuncture-center-toronto-clinic-coordinator.md) | Toronto, ON | From CAD $23/hour | 🧢 Seven Jobs in a Trench Coat |
 | **9.5** | Morguard | [Building Manager](entries/2026-09-07-morguard-building-manager.md) | Toronto, ON | CAD $45k–$60k | 🔥 Everything Is Urgent Award |
+| **9.5** | Merrithew International Inc. | [Front Desk Coordinator](entries/2026-09-08-merrithew-front-desk-coordinator.md) | Toronto, ON | CAD $18/hour | 🧢 Seven Jobs in a Trench Coat |
+| **9.5** | Massage Experts Vaughan | [Clinic Manager](entries/2026-09-08-massage-experts-vaughan-clinic-manager.md) | Concord, ON | CAD $20/hour | 🏔 Moving Mountains Award |
 | **9.3** | The Students Commission of Canada | [Coordinator, Finance & Operations](entries/2026-09-07-students-commission-finance-operations-coordinator.md) | Canada / GTA hybrid | CAD $50k–$58k | 🧢 Seven Jobs in a Trench Coat |
 | **9.3** | BT/A Advertising | [Account Coordinator](entries/2026-09-07-bta-account-coordinator.md) | Toronto, ON | CAD $45k–$55k | 👑 Royal Servant Award |
+| **9.3** | Yonge Urgent Care Clinic | [Medical Office Administrator](entries/2026-09-08-yonge-urgent-care-medical-office-administrator.md) | Toronto, ON | From CAD $20/hour | 🔥 Everything Is Urgent Award |
+| **9.3** | Spectrum Health Care | [Client Services Coordinator, PT](entries/2026-09-08-spectrum-health-care-client-services-coordinator-pt.md) | Toronto, ON | CAD $19–$20/hour | 📨 Human Router Award |
 | **8.8** | Kotn | [Marketing Coordinator](entries/2026-09-07-kotn-marketing-coordinator.md) | Toronto, ON | CAD $45k–$55k | 🧢 Seven Jobs in a Trench Coat |
 | **8.8** | Gambles Group of Companies | [HR Coordinator](entries/2026-09-07-gambles-hr-coordinator.md) | Toronto, ON | CAD $40k–$50k | 🎓 Degree Required to Send Follow-Ups Award |
 | **8.8** | Bloor Pain Specialists | [Medical and Administrative Assistant](entries/2026-09-07-bloor-pain-specialists-medical-administrative-assistant.md) | Toronto, ON | CAD $20/hour | 🪙 Minimum Wage Megazord Award |
 | **8.8** | Stark Wellness Clinic | [Client Care Coordinator](entries/2026-09-07-stark-wellness-client-care-coordinator.md) | Toronto, ON | From CAD $20/hour | 🎓 Degree Required to Send Follow-Ups Award |
 | **8.8** | Curate Health | [Office Manager (Clinic Reception, Administration & Cafe Support)](entries/2026-09-07-curate-health-office-manager-clinic-cafe.md) | Toronto, ON | CAD $20–$24/hour | 🧢 Seven Jobs in a Trench Coat |
+| **8.8** | WorkStaff360 | [URGENT: Personal Administrative Assistant](entries/2026-09-08-workstaff360-personal-administrative-assistant.md) | Toronto, ON / hybrid | USD $4→$5/hour | 🪙 Minimum Wage Megazord Award |
 | **8.5** | Northcott Silk Inc. | [Licensing Marketing Coordinator](entries/2026-09-07-northcott-silk-licensing-marketing-coordinator.md) | Vaughan, ON | CAD $42k–$47k | 🏔 Moving Mountains Award |
 | **8.5** | Painless Medicine and Therapeutics Inc. | [Administrative Assistant](entries/2026-09-07-painless-medicine-administrative-assistant.md) | Toronto, ON | From CAD $18/hour | 🪙 Minimum Wage Megazord Award |
 | **8.5** | Activate Beauty | [Clinic Manager / Sales Manager](entries/2026-09-07-activate-beauty-clinic-manager-sales-manager.md) | Toronto, ON | From CAD $25/hour + bonus | 🔥 Everything Is Urgent Award |
@@ -124,7 +129,7 @@ A strong finished entry includes:
 
 ## Status
 
-Started in Toronto in September 2026. Twenty-nine specimens indexed and persistence tracking initialized. Geographic expansion encouraged.
+Started in Toronto in September 2026. Thirty-four specimens indexed and persistence tracking initialized. Geographic expansion encouraged.
 
 ---
 
