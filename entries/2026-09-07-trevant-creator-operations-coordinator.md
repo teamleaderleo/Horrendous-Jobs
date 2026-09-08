@@ -1,6 +1,6 @@
 # Trevant — Creator Operations Coordinator
 
-**Horrendous Score:** 8.4 / 10  
+**Horrendous Score:** 8.3 / 10  
 **Award(s):** 🧢 Seven Jobs in a Trench Coat · 📨 Human Router Award · 💰 Surely There's Equity? Award  
 **Location:** Toronto, ON, Canada  
 **Listed pay:** CAD $45,000–$60,000/year  
