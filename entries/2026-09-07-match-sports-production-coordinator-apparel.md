@@ -1,7 +1,7 @@
 # Match Sports International Inc. — Production Coordinator — Apparel
 
 **Horrendous Score:** 8.3 / 10  
-**Award(s):** 🏔 Moving Mountains Award · 🎓 Degree Required to Send Follow-Ups Award  
+**Award(s):** 🏔 Moving Mountains Award · 🎓 Degree Required to Send Follow-Ups Award · 🪙 Minimum Wage Megazord Award  
 **Location:** Scarborough, ON, Canada  
 **Listed pay:** Ontario general minimum wage for first 3 months; then CAD $40,000–$50,000/year  
 **Employment type:** Full-time, permanent  
