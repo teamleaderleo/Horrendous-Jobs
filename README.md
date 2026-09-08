@@ -4,7 +4,7 @@
 
 **Horrendous Jobs** is a public archive of job postings with spectacular effort-to-reward ratios: enormous scope, thin authority, relentless coordination, heroic availability, credential inflation, and compensation that makes the whole thing sing.
 
-The goal is comedy **and** a usable dataset. Every entry records the advertised pay, requirements, responsibilities, source, observation date, and a subjective **Horrendous Score**.
+The goal is comedy **and** a usable dataset. Every entry records the advertised pay, requirements, responsibilities, source, observation history, and a subjective **Horrendous Score**.
 
 ## Current leaderboard
 
@@ -22,6 +22,22 @@ The goal is comedy **and** a usable dataset. Every entry records the advertised 
 | **7.6** | Gensler | [Project Coordinator](entries/2026-09-07-gensler-project-coordinator.md) | Toronto, ON | CAD $65k–$72k | 📊 Spreadsheet Atlas Award |
 
 See [`entries/`](entries/) for the dossiers.
+
+## Days in the Wild
+
+Each specimen now has a persistence record. We track **first seen, last seen, disappearance, reposts, salary changes, title changes, and Days in the Wild**.
+
+```text
+Days in the Wild = last_seen - first_seen
+```
+
+A new specimen begins at Day 0. Repeated sightings extend its observed span. If a posting disappears and later returns, the repost count increases and the event history preserves the gap.
+
+- Current state: [`tracking/jobs.csv`](tracking/jobs.csv)
+- Append-only observation log: [`tracking/events.csv`](tracking/events.csv)
+- Tracking methodology: [`TRACKING.md`](TRACKING.md)
+
+This eventually lets the project ask a second question beyond “how horrendous is the offer?”: **how long does the market leave it sitting there, and what does the employer change while trying to fill it?**
 
 ## The Horrendous Score
 
@@ -60,7 +76,7 @@ Recurring achievements in the field of employment horror:
 
 ## Add a specimen
 
-**[Submit a horrendous job](https://github.com/teamleaderleo/Horrendous-Jobs/issues/new/choose)** by pasting the public posting into an issue. Raw copy-paste is welcome; parsing, cleanup, scoring, and dossier formatting can happen later.
+**[Submit a horrendous job](https://github.com/teamleaderleo/Horrendous-Jobs/issues/new/choose)** by pasting the public posting into an issue. Raw copy-paste is welcome; parsing, cleanup, scoring, tracking, and dossier formatting can happen later.
 
 The paste-friendly template asks only for a source URL, observation date, and the posting text. Completely blank issues are enabled too.
 
@@ -69,11 +85,12 @@ Want to contribute a finished dossier directly? Copy [`entries/TEMPLATE.md`](ent
 A strong finished entry includes:
 
 1. A public source URL.
-2. The date the posting was observed.
+2. First and most recent observation dates.
 3. Salary exactly as advertised.
 4. Requirements and responsibilities summarized faithfully.
 5. A score with a short rationale.
-6. Short excerpts only when the employer's own wording is especially revealing.
+6. Posting status and any repost/pay/title history.
+7. Short excerpts only when the employer's own wording is especially revealing.
 
 ## Principles
 
@@ -83,10 +100,11 @@ A strong finished entry includes:
 - **Keep historical entries.** A dead listing is still useful evidence; mark it inactive when known.
 - **Pay is contextual.** Currency, location, hours, employment type, and date belong with the number.
 - **The title proves nothing.** Score what the employer actually asks the person to do.
+- **Track observed facts.** A disappearance records that the listing vanished from the checked source; it says nothing by itself about whether somebody was hired.
 
 ## Status
 
-Started in Toronto in September 2026. Ten specimens indexed so far. Geographic expansion encouraged.
+Started in Toronto in September 2026. Ten specimens indexed and persistence tracking initialized. Geographic expansion encouraged.
 
 ---
 
