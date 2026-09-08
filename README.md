@@ -10,21 +10,28 @@ The goal is comedy **and** a usable dataset. Every entry records the advertised 
 
 | Score | Company | Role | Location | Listed pay | Signature crime |
 |---:|---|---|---|---:|---|
+| **9.8** | Sterling Karamar Property Management | [Resident Manager (Live-In) — North York](entries/2026-09-07-sterling-karamar-resident-manager-live-in-north-york.md) | North York, Toronto | CAD $30k–$34k | 🔥 Everything Is Urgent Award |
 | **9.5** | Helia Capital | [Executive Assistant & Family Office Coordinator](entries/2026-09-07-helia-capital-executive-assistant-family-office-coordinator.md) | Toronto, ON | From CAD $70k | 👑 Royal Servant Award |
 | **9.5** | PheedLoop | [Customer Service Specialist — Logistics](entries/2026-09-07-pheedloop-customer-service-specialist-logistics.md) | Toronto, ON | CAD $50k | 🏔 Moving Mountains Award |
 | **9.5** | Ramachandran Law Holding Corporation | [Executive Assistant to Managing Director](entries/2026-09-07-ramachandran-law-executive-assistant-managing-director.md) | Scarborough, ON | CAD $45k–$55k | 👑 Royal Servant Award |
 | **9.5** | No Small Feast | [Event Coordinator](entries/2026-09-07-no-small-feast-event-coordinator.md) | Etobicoke, ON | CAD $50k–$60k | 🔥 Everything Is Urgent Award |
 | **9.5** | Impact Cleaning Services | [Quality and Service Specialist](entries/2026-09-07-impact-cleaning-quality-service-specialist.md) | Toronto, ON | CAD $45k–$50k + 5% bonus | 🏔 Moving Mountains Award |
+| **9.5** | Acupuncture Center Toronto | [Clinic Coordinator](entries/2026-09-07-acupuncture-center-toronto-clinic-coordinator.md) | Toronto, ON | From CAD $23/hour | 🧢 Seven Jobs in a Trench Coat |
 | **9.3** | The Students Commission of Canada | [Coordinator, Finance & Operations](entries/2026-09-07-students-commission-finance-operations-coordinator.md) | Canada / GTA hybrid | CAD $50k–$58k | 🧢 Seven Jobs in a Trench Coat |
 | **9.3** | BT/A Advertising | [Account Coordinator](entries/2026-09-07-bta-account-coordinator.md) | Toronto, ON | CAD $45k–$55k | 👑 Royal Servant Award |
 | **8.8** | Kotn | [Marketing Coordinator](entries/2026-09-07-kotn-marketing-coordinator.md) | Toronto, ON | CAD $45k–$55k | 🧢 Seven Jobs in a Trench Coat |
 | **8.8** | Gambles Group of Companies | [HR Coordinator](entries/2026-09-07-gambles-hr-coordinator.md) | Toronto, ON | CAD $40k–$50k | 🎓 Degree Required to Send Follow-Ups Award |
+| **8.8** | Bloor Pain Specialists | [Medical and Administrative Assistant](entries/2026-09-07-bloor-pain-specialists-medical-administrative-assistant.md) | Toronto, ON | CAD $20/hour | 🪙 Minimum Wage Megazord Award |
+| **8.8** | Stark Wellness Clinic | [Client Care Coordinator](entries/2026-09-07-stark-wellness-client-care-coordinator.md) | Toronto, ON | From CAD $20/hour | 🎓 Degree Required to Send Follow-Ups Award |
 | **8.5** | Northcott Silk Inc. | [Licensing Marketing Coordinator](entries/2026-09-07-northcott-silk-licensing-marketing-coordinator.md) | Vaughan, ON | CAD $42k–$47k | 🏔 Moving Mountains Award |
+| **8.5** | Painless Medicine and Therapeutics Inc. | [Administrative Assistant](entries/2026-09-07-painless-medicine-administrative-assistant.md) | Toronto, ON | From CAD $18/hour | 🪙 Minimum Wage Megazord Award |
+| **8.5** | Activate Beauty | [Clinic Manager / Sales Manager](entries/2026-09-07-activate-beauty-clinic-manager-sales-manager.md) | Toronto, ON | From CAD $25/hour + bonus | 🔥 Everything Is Urgent Award |
 | **8.3** | Cineplex | [Account Coordinator, Media Sales](entries/2026-09-07-cineplex-account-coordinator-media-sales.md) | Toronto, ON | CAD $50k–$55k | 📨 Human Router Award |
 | **8.3** | Trevant | [Creator Operations Coordinator](entries/2026-09-07-trevant-creator-operations-coordinator.md) | Toronto, ON | CAD $45k–$60k | 🧢 Seven Jobs in a Trench Coat |
 | **8.3** | CMiC | [Project Coordinator](entries/2026-09-07-cmic-project-coordinator.md) | Toronto, ON | CAD $45k–$55k incl. bonus | 🎓 Degree Required to Send Follow-Ups Award |
 | **8.3** | Match Sports International Inc. | [Production Coordinator — Apparel](entries/2026-09-07-match-sports-production-coordinator-apparel.md) | Scarborough, ON | Minimum wage → CAD $40k–$50k | 🪙 Minimum Wage Megazord Award |
 | **8.3** | Nascent | [Office Coordinator](entries/2026-09-07-nascent-office-coordinator.md) | Toronto, ON | CAD $40k–$50k | 🫠 Competence Tax Award |
+| **7.8** | Canadian Health Providers | [Clinic Administrator](entries/2026-09-07-canadian-health-providers-clinic-administrator.md) | Mississauga, ON | CAD $17.60–$20/hour | 🪙 Minimum Wage Megazord Award |
 | **7.6** | Gensler | [Project Coordinator](entries/2026-09-07-gensler-project-coordinator.md) | Toronto, ON | CAD $65k–$72k | 📊 Spreadsheet Atlas Award |
 
 See [`entries/`](entries/) for the dossiers.
@@ -111,7 +118,7 @@ A strong finished entry includes:
 
 ## Status
 
-Started in Toronto in September 2026. Sixteen specimens indexed and persistence tracking initialized. Geographic expansion encouraged.
+Started in Toronto in September 2026. Twenty-three specimens indexed and persistence tracking initialized. Geographic expansion encouraged.
 
 ---
 
