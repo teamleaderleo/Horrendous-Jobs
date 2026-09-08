@@ -17,12 +17,14 @@ The goal is comedy **and** a usable dataset. Every entry records the advertised 
 | **9.5** | No Small Feast | [Event Coordinator](entries/2026-09-07-no-small-feast-event-coordinator.md) | Etobicoke, ON | CAD $50k–$60k | 🔥 Everything Is Urgent Award |
 | **9.5** | Impact Cleaning Services | [Quality and Service Specialist](entries/2026-09-07-impact-cleaning-quality-service-specialist.md) | Toronto, ON | CAD $45k–$50k + 5% bonus | 🏔 Moving Mountains Award |
 | **9.5** | Acupuncture Center Toronto | [Clinic Coordinator](entries/2026-09-07-acupuncture-center-toronto-clinic-coordinator.md) | Toronto, ON | From CAD $23/hour | 🧢 Seven Jobs in a Trench Coat |
+| **9.5** | Morguard | [Building Manager](entries/2026-09-07-morguard-building-manager.md) | Toronto, ON | CAD $45k–$60k | 🔥 Everything Is Urgent Award |
 | **9.3** | The Students Commission of Canada | [Coordinator, Finance & Operations](entries/2026-09-07-students-commission-finance-operations-coordinator.md) | Canada / GTA hybrid | CAD $50k–$58k | 🧢 Seven Jobs in a Trench Coat |
 | **9.3** | BT/A Advertising | [Account Coordinator](entries/2026-09-07-bta-account-coordinator.md) | Toronto, ON | CAD $45k–$55k | 👑 Royal Servant Award |
 | **8.8** | Kotn | [Marketing Coordinator](entries/2026-09-07-kotn-marketing-coordinator.md) | Toronto, ON | CAD $45k–$55k | 🧢 Seven Jobs in a Trench Coat |
 | **8.8** | Gambles Group of Companies | [HR Coordinator](entries/2026-09-07-gambles-hr-coordinator.md) | Toronto, ON | CAD $40k–$50k | 🎓 Degree Required to Send Follow-Ups Award |
 | **8.8** | Bloor Pain Specialists | [Medical and Administrative Assistant](entries/2026-09-07-bloor-pain-specialists-medical-administrative-assistant.md) | Toronto, ON | CAD $20/hour | 🪙 Minimum Wage Megazord Award |
 | **8.8** | Stark Wellness Clinic | [Client Care Coordinator](entries/2026-09-07-stark-wellness-client-care-coordinator.md) | Toronto, ON | From CAD $20/hour | 🎓 Degree Required to Send Follow-Ups Award |
+| **8.8** | Curate Health | [Office Manager (Clinic Reception, Administration & Cafe Support)](entries/2026-09-07-curate-health-office-manager-clinic-cafe.md) | Toronto, ON | CAD $20–$24/hour | 🧢 Seven Jobs in a Trench Coat |
 | **8.5** | Northcott Silk Inc. | [Licensing Marketing Coordinator](entries/2026-09-07-northcott-silk-licensing-marketing-coordinator.md) | Vaughan, ON | CAD $42k–$47k | 🏔 Moving Mountains Award |
 | **8.5** | Painless Medicine and Therapeutics Inc. | [Administrative Assistant](entries/2026-09-07-painless-medicine-administrative-assistant.md) | Toronto, ON | From CAD $18/hour | 🪙 Minimum Wage Megazord Award |
 | **8.5** | Activate Beauty | [Clinic Manager / Sales Manager](entries/2026-09-07-activate-beauty-clinic-manager-sales-manager.md) | Toronto, ON | From CAD $25/hour + bonus | 🔥 Everything Is Urgent Award |
@@ -31,8 +33,12 @@ The goal is comedy **and** a usable dataset. Every entry records the advertised 
 | **8.3** | CMiC | [Project Coordinator](entries/2026-09-07-cmic-project-coordinator.md) | Toronto, ON | CAD $45k–$55k incl. bonus | 🎓 Degree Required to Send Follow-Ups Award |
 | **8.3** | Match Sports International Inc. | [Production Coordinator — Apparel](entries/2026-09-07-match-sports-production-coordinator-apparel.md) | Scarborough, ON | Minimum wage → CAD $40k–$50k | 🪙 Minimum Wage Megazord Award |
 | **8.3** | Nascent | [Office Coordinator](entries/2026-09-07-nascent-office-coordinator.md) | Toronto, ON | CAD $40k–$50k | 🫠 Competence Tax Award |
+| **8.3** | Renso Foods | [Executive Assistant, Events & Partnerships](entries/2026-09-07-renso-foods-executive-assistant-events-partnerships.md) | Etobicoke, ON | CAD $50k–$65k | 🧢 Seven Jobs in a Trench Coat |
 | **7.8** | Canadian Health Providers | [Clinic Administrator](entries/2026-09-07-canadian-health-providers-clinic-administrator.md) | Mississauga, ON | CAD $17.60–$20/hour | 🪙 Minimum Wage Megazord Award |
+| **7.8** | Hitters Fight Club | [Administrative Manager](entries/2026-09-07-hitters-fight-club-administrative-manager.md) | Toronto, ON | CAD $20–$28/hour | 🧢 Seven Jobs in a Trench Coat |
+| **7.8** | Altima Fire Protection Inc. | [Fire Protection Office Manager](entries/2026-09-07-altima-fire-protection-office-manager.md) | Toronto, ON | CAD $20–$30/hour | 📊 Spreadsheet Atlas Award |
 | **7.6** | Gensler | [Project Coordinator](entries/2026-09-07-gensler-project-coordinator.md) | Toronto, ON | CAD $65k–$72k | 📊 Spreadsheet Atlas Award |
+| **7.5** | Pause Design Inc. | [Accounting Clerk](entries/2026-09-07-pause-design-accounting-clerk.md) | Toronto, ON | CAD $20–$25/hour | 🪙 Minimum Wage Megazord Award |
 
 See [`entries/`](entries/) for the dossiers.
 
@@ -118,7 +124,7 @@ A strong finished entry includes:
 
 ## Status
 
-Started in Toronto in September 2026. Twenty-three specimens indexed and persistence tracking initialized. Geographic expansion encouraged.
+Started in Toronto in September 2026. Twenty-nine specimens indexed and persistence tracking initialized. Geographic expansion encouraged.
 
 ---
 
