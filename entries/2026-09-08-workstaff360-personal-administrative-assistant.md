@@ -70,3 +70,7 @@ The posting asks for experienced executive-style support across professional and
 ## Notes
 
 Jobs.ca records the posting as originally published on February 20, 2026. It remained actively indexed as a Toronto hybrid role when observed by this project on September 8, 2026, so the project's first-observed date is September 8.
+
+**Editorial note:** The compensation is so extreme that it can obscure the breadth of the request. This is experienced executive-style support covering gatekeeping, travel, events, vendors, budgets, research, documents, follow-up, and personal errands. The advertised progression from USD $4/hour to USD $5/hour after eight weeks makes the pay increase itself part of the specimen.
+
+**Persistence note:** The source's February publication date predates the project's first observation by months. Keep that source publication date separate from **Days in the Wild**, which begins when this project first observes the posting. If the same offer remains visible, disappears, or returns, that history should be especially useful.
