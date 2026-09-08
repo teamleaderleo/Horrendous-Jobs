@@ -10,11 +10,11 @@ The goal is comedy **and** a usable dataset. Every entry records the advertised 
 
 | Score | Company | Role | Location | Listed pay | Signature crime |
 |---:|---|---|---|---:|---|
-| **10.0** | Helia Capital | Executive Assistant & Family Office Coordinator | Toronto, ON | From CAD $70k | 👑 Royal Servant Award |
-| **9.9** | PheedLoop | Customer Service Specialist — Logistics | Toronto, ON | CAD $50k | 🏔 Moving Mountains Award |
-| **9.7** | Gensler | Project Coordinator | Toronto, ON | CAD $65k–$72k | 📊 Spreadsheet Atlas Award |
-| **9.6** | Cineplex | Account Coordinator, Media Sales | Toronto, ON | CAD $50k–$55k | 📨 Human Router Award |
-| **9.4** | Trevant | Creator Operations Coordinator | Toronto, ON | CAD $45k–$60k | 🧢 Seven Jobs in a Trench Coat |
+| **9.5** | Helia Capital | [Executive Assistant & Family Office Coordinator](entries/2026-09-07-helia-capital-executive-assistant-family-office-coordinator.md) | Toronto, ON | From CAD $70k | 👑 Royal Servant Award |
+| **9.5** | PheedLoop | [Customer Service Specialist — Logistics](entries/2026-09-07-pheedloop-customer-service-specialist-logistics.md) | Toronto, ON | CAD $50k | 🏔 Moving Mountains Award |
+| **8.3** | Cineplex | [Account Coordinator, Media Sales](entries/2026-09-07-cineplex-account-coordinator-media-sales.md) | Toronto, ON | CAD $50k–$55k | 📨 Human Router Award |
+| **8.3** | Trevant | [Creator Operations Coordinator](entries/2026-09-07-trevant-creator-operations-coordinator.md) | Toronto, ON | CAD $45k–$60k | 🧢 Seven Jobs in a Trench Coat |
+| **7.6** | Gensler | [Project Coordinator](entries/2026-09-07-gensler-project-coordinator.md) | Toronto, ON | CAD $65k–$72k | 📊 Spreadsheet Atlas Award |
 
 See [`entries/`](entries/) for the dossiers.
 
