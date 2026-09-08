@@ -72,3 +72,5 @@ This is a manager title with the duties of an operator, salesperson, receptionis
 ## Notes
 
 Indeed's metadata described the role as part-time while the posting body described it as full-time. The inconsistency is recorded without choosing one interpretation.
+
+**Editorial note:** The manager title carries clinic-wide performance expectations while the employee remains explicitly responsible for front-desk execution. Hiring, coaching, revenue, retention, complaints, inventory, coverage, sales, and cleanliness all converge on a $20/hour role. The posting treats management responsibility as an additional layer of desk work instead of a separate level of responsibility.
