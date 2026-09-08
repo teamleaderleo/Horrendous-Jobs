@@ -69,3 +69,5 @@ The employee sits in the middle of clients, care workers, partner organizations,
 ## Notes
 
 The role was also listed through Spectrum Health Care's employer recruiting page when observed.
+
+**Editorial note:** Part-time status leaves the responsibility remarkably intact. The employee still sits between clients, PSWs, nurses, community partners, Ontario Health representatives, and supervisors while absorbing high call volume and live scheduling problems. The posting asks for a medical-office diploma or equivalent background, two years of office experience, weekend availability, and coverage as late as midnight for $19–$20/hour.
