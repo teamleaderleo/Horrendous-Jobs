@@ -69,3 +69,5 @@ The posting turns a front-desk title into a compact studio operating system. The
 ## Notes
 
 The posting was active when observed on September 8, 2026.
+
+**Editorial note:** The revealing detail is the adjacency of revenue generation and custodial work. The same front-desk employee can be measured on lead conversion and sales goals, then be responsible for cleaning washrooms, studios, and equipment in the same role. Social-content capture and event support arrive on top of that combination.
