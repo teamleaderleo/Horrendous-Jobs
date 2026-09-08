@@ -55,11 +55,13 @@ Recurring achievements in the field of employment horror:
 
 ## Add a specimen
 
-**[Nominate a horrendous job](https://github.com/teamleaderleo/Horrendous-Jobs/issues/new?template=horrendous-job.yml)** using the submission form. Bring a public posting and the evidence; the form collects everything needed to score and archive it.
+**[Submit a horrendous job](https://github.com/teamleaderleo/Horrendous-Jobs/issues/new/choose)** by pasting the public posting into an issue. Raw copy-paste is welcome; parsing, cleanup, scoring, and dossier formatting can happen later.
+
+The paste-friendly template asks only for a source URL, observation date, and the posting text. Completely blank issues are enabled too.
 
 Want to contribute a finished dossier directly? Copy [`entries/TEMPLATE.md`](entries/TEMPLATE.md), fill it in, and submit the change.
 
-A strong entry includes:
+A strong finished entry includes:
 
 1. A public source URL.
 2. The date the posting was observed.
