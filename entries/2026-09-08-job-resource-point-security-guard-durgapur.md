@@ -1,6 +1,6 @@
 # Job Resource Point — Security Guard
 
-**Horrendous Score v2:** 9.2 / 10  
+**Horrendous Score v2:** 8.6 / 10  
 **Legacy v1 score:** 5.5 / 10  
 **Award(s):** 🪙 Minimum Wage Megazord Award  
 **Location:** Muchipara / Durgapur, West Bengal, India  
@@ -45,13 +45,13 @@ Job Resource Point advertises 25 immediate Security Guard vacancies for a plant 
 | Urgency & interruption load | 3 | Alarms, suspicious activity, and emergencies are explicit |
 | Experience / credential tax | 1 | Modest education and physical requirements |
 | Emotional labor | 0 | Little service-recovery burden stated |
-| Time capture & availability | 5 | Twelve-hour duty |
+| Time capture & availability | 4 | The posting states 12-hour duty but does not state days per week, so v2 stops below the 72+ hour / seven-day maximum |
 | Compensation penalty | 5 | INR 15k–17k/month for twelve-hour security shifts |
 | Physical danger | 2 | Plant patrol, prolonged standing, and emergency response create meaningful physical exposure |
 | Exit / dependency / coercion | 2 | The employer explicitly wants candidates living at least 35 km away and supplies lodging/cooking equipment, creating practical housing dependence without evidence of coercion |
 
-**Worst four dimensions:** 5, 5, 3, 3  
-**Horrendous Score v2:** **9.2 / 10**
+**Worst four dimensions:** 5, 4, 3, 3  
+**Horrendous Score v2:** **8.6 / 10**
 
 ## Why it belongs here
 
@@ -69,4 +69,4 @@ The schedule and pay are severe by themselves. The geographic condition makes th
 
 ## Notes
 
-The original v1 score was 5.5/10. V2 raises the result because maximum time capture and compensation are no longer diluted by the job's narrow scope.
+The original v1 score was 5.5/10. V2 raises the result because long shifts and compensation are no longer diluted by the job's narrow scope. The first v2 draft briefly scored time capture at 5; final review reduced it to 4 because the posting does not state weekly rest days.
