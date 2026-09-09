@@ -50,7 +50,7 @@ Debt Relief Group advertises a permanent live-in housekeeper for a busy Umhlanga
 | Time capture & availability | 5 | Must live on the property full-time; schedule boundaries are not stated |
 | Compensation penalty | 5 | ZAR 4k–4.25k/month for an experienced permanent live-in role |
 | Physical danger | 0 | No severe physical hazard is advertised |
-| Exit / dependency / coercion | 4 | Residence is a condition of the job, tying home and employment together with no stated schedule boundary; the posting does not establish forced labor |
+| Exit / dependency / coercion | 3 | Residence is a condition of the job, materially tying home to employment; the posting does not establish restricted movement or forced labor |
 
 **Worst four dimensions:** 5, 5, 4, 4  
 **Horrendous Score v2:** **9.6 / 10**
