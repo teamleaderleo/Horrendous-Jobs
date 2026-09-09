@@ -1,6 +1,7 @@
 # Debt Relief Group — Live-In Housekeeper
 
-**Horrendous Score:** 7.5 / 10  
+**Horrendous Score v2:** 9.6 / 10  
+**Legacy v1 score:** 7.5 / 10  
 **Award(s):** 👑 Royal Servant Award · 🪙 Minimum Wage Megazord Award  
 **Location:** Umhlanga / Durban, KwaZulu-Natal, South Africa  
 **Listed pay:** ZAR 4,000–4,250/month  
@@ -46,17 +47,17 @@ Debt Relief Group advertises a permanent live-in housekeeper for a busy Umhlanga
 | Urgency & interruption load | 3 | Busy household and high standards at all times |
 | Experience / credential tax | 4 | Five years' experience plus specific household/hospitality background and references |
 | Emotional labor | 3 | Live-in private-household work requires continuous interpersonal proximity and trust |
-| After-hours exposure | 5 | Must live on the property full-time; schedule boundaries are not stated |
-| Compensation penalty | 5 | ZAR 4k–4.25k/month for an experienced full-time live-in role |
-| **Raw total** | **28 / 40** | |
+| Time capture & availability | 5 | Must live on the property full-time; schedule boundaries are not stated |
+| Compensation penalty | 5 | ZAR 4k–4.25k/month for an experienced permanent live-in role |
+| Physical danger | 0 | No severe physical hazard is advertised |
+| Exit / dependency / coercion | 4 | Residence is a condition of the job, tying home and employment together with no stated schedule boundary; the posting does not establish forced labor |
 
-**Calculated score:** 7.0 / 10  
-**Editorial adjustment:** +0.5  
-**Final score:** **7.5 / 10**
+**Worst four dimensions:** 5, 5, 4, 4  
+**Horrendous Score v2:** **9.6 / 10**
 
 ## Why it belongs here
 
-The posting asks for an experienced household professional and then folds the worker's residence into the employment bargain. Water, electricity, and accommodation are provided, but living where you work can erase the clean edge between paid time and personal time unless the schedule is exceptionally clear; this listing does not state one.
+The posting asks for an experienced household professional and then folds the worker's residence into the employment bargain. Water, electricity, and accommodation are provided, but the job owns both workplace and home while leaving the schedule undefined.
 
 The line **“This is a serious position. No chancers”** lands particularly hard beside ZAR 4,000–4,250/month.
 
@@ -73,3 +74,5 @@ The line **“This is a serious position. No chancers”** lands particularly ha
 ## Notes
 
 The posting specifies an age range of 28–38. This dossier records the advertised condition without making a legal conclusion about it.
+
+The original v1 score was 7.5/10. V2 gives full weight to residence capture, compensation, and experience demands.
