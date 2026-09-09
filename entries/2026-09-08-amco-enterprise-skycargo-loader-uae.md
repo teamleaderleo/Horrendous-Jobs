@@ -1,7 +1,7 @@
 # AMCO ENTERPRISE LIMITED — SkyCargo Loader (UAE recruitment drive)
 
-**Horrendous Score:** 4.5 / 10  
-**Danger Premium:** 2 / 5  
+**Horrendous Score v2:** 7.9 / 10  
+**Legacy v1 score:** 4.5 / 10  
 **Award(s):** 🪙 Minimum Wage Megazord Award  
 **Location:** United Arab Emirates  
 **Listed pay:** AED 1,008/month  
@@ -39,25 +39,21 @@ The campaign names SkyCargo Loader as the position but does not give a detailed 
 |---|---:|---|
 | Scope creep | 1 | Narrow cargo-loader title |
 | Responsibility / authority gap | 2 | Physical logistics responsibility with little worker authority indicated |
-| Coordination burden | 2 | Airport/cargo work inherently interfaces with teams and handling operations, though details are sparse |
+| Coordination burden | 2 | Airport/cargo work interfaces with teams and handling operations, though details are sparse |
 | Urgency & interruption load | 3 | Aviation cargo operations are time-sensitive; campaign provides little task detail |
 | Experience / credential tax | 1 | SSC+, English, fitness and grooming requirements |
 | Emotional labor | 0 | None stated |
-| After-hours exposure | 2 | Aviation-support role; schedule omitted, so only limited inference is used |
+| Time capture & availability | 2 | Aviation-support role; hours are omitted, so the score stays conservative |
 | Compensation penalty | 5 | AED 1,008/month cash salary for airport cargo-loading work |
-| **Raw total** | **16 / 40** | |
+| Physical danger | 2 | Cargo loading is physically demanding and occurs around logistics equipment, but exact ramp/equipment exposure is not stated |
+| Exit / dependency / coercion | 3 | Overseas recruitment plus employer accommodation, transport, and medical benefits create practical dependency without proving coercion |
 
-**Calculated score:** 4.0 / 10  
-**Editorial adjustment:** +0.5  
-**Final score:** **4.5 / 10**
-
-## Danger Premium
-
-**2 / 5.** Cargo loading is physically demanding and performed around logistics equipment, but the recruitment post does not specify the equipment, ramp environment, or exact hazard controls. The score stays conservative.
+**Worst four dimensions:** 5, 3, 3, 2  
+**Horrendous Score v2:** **7.9 / 10**
 
 ## Why it belongs here
 
-The posting pairs physical-fitness and English requirements with a four-figure dirham salary for work in the aviation logistics chain. The benefits package matters, but the cash wage is stark enough to deserve preservation.
+The posting pairs physical-fitness and English requirements with a four-figure dirham salary for work in the aviation logistics chain. The hours are absent, which meaningfully limits the score; v2 refuses to invent a 12-hour schedule just because similar Gulf recruitment posts use one.
 
 ## Signature crime
 
@@ -72,3 +68,5 @@ The posting pairs physical-fitness and English requirements with a four-figure d
 ## Notes
 
 This is an archived public recruiter/company post rather than a current LinkedIn Jobs card. Application status is therefore recorded as unknown.
+
+The original v1 score was 4.5/10. V2 raises the score while preserving the evidentiary limit created by the missing schedule.
