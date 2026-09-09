@@ -31,12 +31,12 @@ These are the public listings and recruiter posts that forced the scoring rewrit
 | **9.6** | [Construction-Site Security Guard — Mumbai](entries/2026-09-08-jobmygoal-security-guard-mumbai.md) | INR 15k–20k/month | 12-hour shift · live on construction site |
 | **9.6** | [IRATA Level 1 Technician — Dubai](entries/2026-09-08-skyperz-irata-level-1-technician-dubai.md) | AED 1.6k–1.9k/month | Certified high-rise rope access |
 | **9.6** | [Live-In Housekeeper — Durban](entries/2026-09-08-debt-relief-group-live-in-housekeeper-durban.md) | ZAR 4k–4.25k/month | Five years' experience · must live on property full-time |
-| **9.2** | [Plant Security Guard — Durgapur](entries/2026-09-08-job-resource-point-security-guard-durgapur.md) | INR 15k–17k/month | 12-hour duty · employer lodging · home 35 km+ away |
 | **9.1** | [Security Guard — Chennai](entries/2026-09-08-mss-facility-management-security-guard-chennai.md) | INR 18k/month | **12 hours/day · 7 days/week** |
 | **9.1** | [High Rise Window Cleaner — Toronto/GTA](entries/2026-09-08-himalayas-building-maintenance-high-rise-window-cleaner.md) | From CAD $18/hour | Exterior high-rise fall exposure |
 | **9.1** | [Cleaner — Bahrain recruiter post](entries/2026-09-08-sky-rise-enterprises-cleaner-bahrain.md) | BHD 110/month | 12 hours/day · 2 days off/month |
 | **9.1** | [General Cleaner — Dubai recruiter post](entries/2026-09-08-sky-rise-enterprises-general-cleaner-dubai.md) | AED 900/month + food | 12 hours/day · one weekly off |
 | **9.1** | [Cleaner — UAE recruitment post](entries/2026-09-08-khin-shin-thant-cleaner-uae.md) | AED 900/month | 12 hours/day · one weekly off |
+| **8.6** | [Plant Security Guard — Durgapur](entries/2026-09-08-job-resource-point-security-guard-durgapur.md) | INR 15k–17k/month | 12-hour duty · employer lodging · days/week unstated |
 | **7.9** | [SkyCargo Loader — UAE recruitment drive](entries/2026-09-08-amco-enterprise-skycargo-loader-uae.md) | AED 1,008/month | Hours omitted; overseas airport-logistics recruitment |
 
 The ceiling is calibrated against research cases rather than pretending LinkedIn contains the whole labor market: **debt-bonded brick kilns ≈ 10.0**, **Bangladesh shipbreaking ≈ 9.8–9.9**, and **hazardous sewer/septic entry ≈ 9.6–9.8**.
