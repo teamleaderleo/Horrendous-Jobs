@@ -63,9 +63,13 @@ This overlay records serious physical risk separately from the ordinary Horrendo
 
 The advertised facts here include exterior high-rise work, fall-protection equipment, physically demanding outdoor labour, and comfort working at heights, paired with a starting rate of CAD $18/hour.
 
-### Editorial pay context
+### Calibrated pay context
 
-During project review, CAD **$35–$40/hour** was identified as an intuitive minimum-pay expectation for high-rise exterior window cleaning at this level of consequence. That figure is an **editorial benchmark**, not a claim about prevailing market wages. It is preserved because the gap between that intuitive danger premium and the advertised CAD $18/hour is part of what made the posting stand out.
+Current wage evidence suggests **CAD $25–$30/hour** is a more defensible benchmark for competent high-rise window-cleaning work in Toronto, with **about CAD $27/hour** serving as a reasonable representative figure.
+
+Job Bank's broader Toronto “window washer” category reports a median of CAD $19.25/hour and a high of CAD $25/hour, but that category includes ordinary specialized cleaning and does not isolate high-rise work. Current Toronto high-rise postings provide a more useful comparison: Cancore Building Services advertises CAD $20–$25/hour for high-rise window cleaners and CAD $20–$35/hour for high-rise window cleaning / IRATA-SPRAT rope-access technicians. That employer also states that a capable worker can average roughly CAD $25–$30/hour within a year.
+
+The project's earlier CAD $35–$40/hour intuition therefore fits better as an upper-end or more specialized rope-access / senior danger-pay expectation than as a baseline market benchmark. Against the calibrated **~CAD $27/hour** reference point, Himalayas' CAD $18/hour starting rate is roughly one-third lower.
 
 ## Why it belongs here
 
@@ -86,3 +90,5 @@ The posting therefore belongs in the archive as a danger-pay specimen even thoug
 ## Notes
 
 The employer states that previous high-rise window-cleaning experience is preferred but not required and that suitable candidates can receive training. Expected hours are approximately 30–40 per week, with occasional weekend work.
+
+Pay calibration checked September 8, 2026 against Government of Canada Job Bank Toronto window-washer wage data and current Toronto high-rise / rope-access postings.
