@@ -1,7 +1,7 @@
 # Job Resource Point — Security Guard
 
-**Horrendous Score:** 5.5 / 10  
-**Danger Premium:** 2 / 5  
+**Horrendous Score v2:** 9.2 / 10  
+**Legacy v1 score:** 5.5 / 10  
 **Award(s):** 🪙 Minimum Wage Megazord Award  
 **Location:** Muchipara / Durgapur, West Bengal, India  
 **Listed pay:** INR 15,000–17,000/month + PF/ESI  
@@ -45,21 +45,17 @@ Job Resource Point advertises 25 immediate Security Guard vacancies for a plant 
 | Urgency & interruption load | 3 | Alarms, suspicious activity, and emergencies are explicit |
 | Experience / credential tax | 1 | Modest education and physical requirements |
 | Emotional labor | 0 | Little service-recovery burden stated |
-| After-hours exposure | 5 | Twelve-hour duty |
+| Time capture & availability | 5 | Twelve-hour duty |
 | Compensation penalty | 5 | INR 15k–17k/month for twelve-hour security shifts |
-| **Raw total** | **20 / 40** | |
+| Physical danger | 2 | Plant patrol, prolonged standing, and emergency response create meaningful physical exposure |
+| Exit / dependency / coercion | 2 | The employer explicitly wants candidates living at least 35 km away and supplies lodging/cooking equipment, creating practical housing dependence without evidence of coercion |
 
-**Calculated score:** 5.0 / 10  
-**Editorial adjustment:** +0.5  
-**Final score:** **5.5 / 10**
-
-## Danger Premium
-
-**2 / 5.** Plant patrol, prolonged standing, and emergency response create meaningful physical exposure, though no severe specific industrial hazard is stated.
+**Worst four dimensions:** 5, 5, 3, 3  
+**Horrendous Score v2:** **9.2 / 10**
 
 ## Why it belongs here
 
-The schedule and pay are already severe. The geographic condition makes the posting stranger: the employer explicitly wants candidates whose homes are at least 35 km away and pairs that with free lodging, turning distance from home into part of the recruitment package.
+The schedule and pay are severe by themselves. The geographic condition makes the employment bargain stranger: the employer explicitly wants candidates whose homes are at least 35 km away and pairs that with free lodging, making distance from home part of the recruitment design.
 
 ## Signature crime
 
@@ -70,3 +66,7 @@ The schedule and pay are already severe. The geographic condition makes the post
 | Date | Event | Details |
 |---|---|---|
 | 2026-09-08 | First observed | Active LinkedIn listing; 25 vacancies; INR 15k–17k; 12-hour duty; free lodging |
+
+## Notes
+
+The original v1 score was 5.5/10. V2 raises the result because maximum time capture and compensation are no longer diluted by the job's narrow scope.
