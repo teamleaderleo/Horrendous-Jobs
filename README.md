@@ -2,13 +2,52 @@
 
 > Cataloguing extraordinary demands for ordinary compensation.
 
-**Horrendous Jobs** is a public archive of job postings with spectacular effort-to-reward ratios: enormous scope, thin authority, relentless coordination, heroic availability, credential inflation, and compensation that makes the whole thing sing.
+**Horrendous Jobs** is a public archive of job postings with spectacular effort-to-reward ratios: enormous scope, thin authority, relentless coordination, heroic availability, physical peril, tied residence, and compensation that makes the whole thing sing.
 
 The goal is comedy **and** a usable dataset. Every entry records the advertised pay, requirements, responsibilities, source, observation history, and a subjective **Horrendous Score**.
 
-## Current leaderboard
+## Scoring v2
 
-| Score | Company | Role | Location | Listed pay | Signature crime |
+**Horrendous Score v2 is now canonical.** The old formula averaged every dimension together, which let easy dimensions cancel catastrophic ones. A narrow 84-hour security job could therefore score lower than a busy office coordinator.
+
+V2 scores ten dimensions and lets the **four worst harms dominate**:
+
+```text
+Score = 2 × (0.50×h1 + 0.30×h2 + 0.15×h3 + 0.05×h4)
+```
+
+where `h1 >= h2 >= h3 >= h4` are the four highest dimension scores.
+
+Physical danger and exit/dependency/coercion now live inside the main score. Older dossiers can preserve their old number as a **Legacy v1 score** while they are migrated.
+
+Full rubric and ceiling calibration: [`SCORING.md`](SCORING.md)
+
+## Global Job-Board Abyss — v2
+
+These are the public listings and recruiter posts that forced the scoring rewrite.
+
+| Score v2 | Specimen | Listed pay | Schedule / condition |
+|---:|---|---:|---|
+| **9.6** | [Construction-Site Security Guard — Mumbai](entries/2026-09-08-jobmygoal-security-guard-mumbai.md) | INR 15k–20k/month | 12-hour shift · live on construction site |
+| **9.6** | [IRATA Level 1 Technician — Dubai](entries/2026-09-08-skyperz-irata-level-1-technician-dubai.md) | AED 1.6k–1.9k/month | Certified high-rise rope access |
+| **9.6** | [Live-In Housekeeper — Durban](entries/2026-09-08-debt-relief-group-live-in-housekeeper-durban.md) | ZAR 4k–4.25k/month | Five years' experience · must live on property full-time |
+| **9.2** | [Plant Security Guard — Durgapur](entries/2026-09-08-job-resource-point-security-guard-durgapur.md) | INR 15k–17k/month | 12-hour duty · employer lodging · home 35 km+ away |
+| **9.1** | [Security Guard — Chennai](entries/2026-09-08-mss-facility-management-security-guard-chennai.md) | INR 18k/month | **12 hours/day · 7 days/week** |
+| **9.1** | [High Rise Window Cleaner — Toronto/GTA](entries/2026-09-08-himalayas-building-maintenance-high-rise-window-cleaner.md) | From CAD $18/hour | Exterior high-rise fall exposure |
+| **9.1** | [Cleaner — Bahrain recruiter post](entries/2026-09-08-sky-rise-enterprises-cleaner-bahrain.md) | BHD 110/month | 12 hours/day · 2 days off/month |
+| **9.1** | [General Cleaner — Dubai recruiter post](entries/2026-09-08-sky-rise-enterprises-general-cleaner-dubai.md) | AED 900/month + food | 12 hours/day · one weekly off |
+| **9.1** | [Cleaner — UAE recruitment post](entries/2026-09-08-khin-shin-thant-cleaner-uae.md) | AED 900/month | 12 hours/day · one weekly off |
+| **7.9** | [SkyCargo Loader — UAE recruitment drive](entries/2026-09-08-amco-enterprise-skycargo-loader-uae.md) | AED 1,008/month | Hours omitted; overseas airport-logistics recruitment |
+
+The ceiling is calibrated against research cases rather than pretending LinkedIn contains the whole labor market: **debt-bonded brick kilns ≈ 10.0**, **Bangladesh shipbreaking ≈ 9.8–9.9**, and **hazardous sewer/septic entry ≈ 9.6–9.8**.
+
+See [`ABYSS.md`](ABYSS.md) for the cabinet and [`research/global-danger-pay.md`](research/global-danger-pay.md) for the broader global reference set.
+
+## Legacy v1 Toronto leaderboard
+
+The table below preserves the original scores until each dossier receives a v2 pass. Treat these numbers as **v1**, not directly comparable to the v2 Abyss table above.
+
+| Score v1 | Company | Role | Location | Listed pay | Signature crime |
 |---:|---|---|---|---:|---|
 | **9.8** | Sterling Karamar Property Management | [Resident Manager (Live-In) — North York](entries/2026-09-07-sterling-karamar-resident-manager-live-in-north-york.md) | North York, Toronto | CAD $30k–$34k | 🔥 Everything Is Urgent Award |
 | **9.5** | Helia Capital | [Executive Assistant & Family Office Coordinator](entries/2026-09-07-helia-capital-executive-assistant-family-office-coordinator.md) | Toronto, ON | From CAD $70k | 👑 Royal Servant Award |
@@ -47,19 +86,9 @@ The goal is comedy **and** a usable dataset. Every entry records the advertised 
 
 See [`entries/`](entries/) for the dossiers.
 
-## Danger cabinet
-
-The ordinary Horrendous Score was built around scope, coordination, authority, availability, credentials, and compensation. Narrow jobs with serious physical hazards can slip through that net, so dangerous roles also receive a separate **Danger Premium** from 0 to 5.
-
-| Danger | Company | Role | Listed pay | Hazard |
-|---:|---|---|---:|---|
-| **5 / 5** | Himalayas Building Maintenance Ltd. | [High Rise Window Cleaner](entries/2026-09-08-himalayas-building-maintenance-high-rise-window-cleaner.md) | From CAD $18/hour | 🪂 Exterior high-rise work, fall protection, catastrophic-consequence exposure |
-
-The Himalayas specimen scores only **4.8 / 10** under the ordinary rubric because the job itself is narrow. Its **5 / 5 Danger Premium** records what that score misses. Current Toronto evidence suggests **CAD $25–$30/hour** is a more defensible benchmark for competent high-rise work, with **about CAD $27/hour** as a useful representative figure. The advertised CAD $18/hour starting rate is roughly one-third below that benchmark; CAD $35–$40/hour fits better as an upper-end specialized rope-access or senior expectation.
-
 ## Days in the Wild
 
-Each specimen now has a persistence record. We track **first seen, last seen, disappearance, reposts, salary changes, title changes, and Days in the Wild**.
+Each specimen has a persistence record. We track **first seen, last seen, disappearance, reposts, salary changes, title changes, and Days in the Wild**.
 
 ```text
 Days in the Wild = last_seen - first_seen
@@ -71,28 +100,22 @@ A new specimen begins at Day 0. Repeated sightings extend its observed span. If 
 - Append-only observation log: [`tracking/events.csv`](tracking/events.csv)
 - Tracking methodology: [`TRACKING.md`](TRACKING.md)
 
-This eventually lets the project ask a second question beyond “how horrendous is the offer?”: **how long does the market leave it sitting there, and what does the employer change while trying to fill it?**
-
 ## The Horrendous Score
 
-The score asks a simple question:
+V2 scores ten dimensions:
 
-> **How much mountain are you expected to move for each unit of reward?**
+- **Scope creep**
+- **Responsibility / authority gap**
+- **Coordination burden**
+- **Urgency & interruption load**
+- **Experience / credential tax**
+- **Emotional labor**
+- **Time capture & availability**
+- **Compensation penalty**
+- **Physical danger**
+- **Exit / dependency / coercion**
 
-Each posting is judged across eight dimensions:
-
-- **Scope creep** — how many distinct jobs are hiding inside the title?
-- **Responsibility / authority gap** — how much do you own without the power to decide?
-- **Coordination burden** — how much of your day will be spent chasing humans?
-- **Urgency & interruption load** — live problems, competing priorities, constant pivots.
-- **Experience / credential tax** — how much prior investment is demanded for the work and pay?
-- **Emotional labor** — customers, executives, vendors, creators, guests, household members, etc.
-- **After-hours exposure** — evenings, weekends, travel, emergencies, event coverage.
-- **Compensation & upside** — salary, meaningful incentives, autonomy, ownership, and career leverage.
-
-The score is deliberately editorial. The underlying facts should always be traceable to the posting. Dangerous work can also receive a separate **Danger Premium** so physical peril is recorded without changing the historical score formula.
-
-Full rubric: [`SCORING.md`](SCORING.md)
+The four worst dimension scores determine the result. This makes the score intentionally non-compensatory: a low-danger office role can still score through scope and responsibility, while a narrow physical job can score through danger, time, dependency, and pay.
 
 ## Awards
 
@@ -107,14 +130,12 @@ Recurring achievements in the field of employment horror:
 - 🫠 **Competence Tax Award** — reliability earns additional responsibilities.
 - 💰 **Surely There's Equity? Award** — startup-level scope with ordinary employee upside.
 - 🎓 **Degree Required to Send Follow-Ups Award** — credential requirements wildly exceed the intellectual content of the role.
-- 🪙 **Minimum Wage Megazord Award** — professional credentials and multiple functions assembled around near-floor compensation.
+- 🪙 **Minimum Wage Megazord Award** — professional credentials or enormous human demands assembled around near-floor compensation.
 - 🪂 **Mortal Peril Premium Award** — serious physical hazard paired with astonishingly ordinary compensation.
 
 ## Add a specimen
 
 **[Submit a horrendous job](https://github.com/teamleaderleo/Horrendous-Jobs/issues/new/choose)** by pasting the public posting into an issue. Raw copy-paste is welcome; parsing, cleanup, scoring, tracking, and dossier formatting can happen later.
-
-The paste-friendly template asks only for a source URL, observation date, and the posting text. Completely blank issues are enabled too.
 
 Want to contribute a finished dossier directly? Copy [`entries/TEMPLATE.md`](entries/TEMPLATE.md), fill it in, and submit the change.
 
@@ -122,9 +143,9 @@ A strong finished entry includes:
 
 1. A public source URL.
 2. First and most recent observation dates.
-3. Salary exactly as advertised.
+3. Salary and schedule exactly enough to understand the offer.
 4. Requirements and responsibilities summarized faithfully.
-5. A score with a short rationale.
+5. A v2 score with the dimension evidence shown.
 6. Posting status and any repost/pay/title history.
 7. Short excerpts only when the employer's own wording is especially revealing.
 
@@ -134,13 +155,14 @@ A strong finished entry includes:
 - **Quote sparingly.** Summarize job descriptions and link to the original source instead of reproducing them wholesale.
 - **Show your work.** Separate facts from commentary.
 - **Keep historical entries.** A dead listing is still useful evidence; mark it inactive when known.
-- **Pay is contextual.** Currency, location, hours, employment type, danger exposure, and date belong with the number.
+- **Pay is contextual.** Currency, location, hours, employment type, danger exposure, dependency, and date belong with the number.
 - **The title proves nothing.** Score what the employer actually asks the person to do.
+- **Do not infer coercion.** Employer housing or overseas placement can raise dependency without proving forced labor.
 - **Track observed facts.** A disappearance records that the listing vanished from the checked source; it says nothing by itself about whether somebody was hired.
 
 ## Status
 
-Started in Toronto in September 2026. Thirty-five specimens indexed and persistence tracking initialized. Geographic expansion encouraged.
+Started in Toronto in September 2026. **Forty-four posting/recruitment specimens** are indexed, the Global Job-Board Abyss is live, and v2 scoring migration has begun.
 
 ---
 
