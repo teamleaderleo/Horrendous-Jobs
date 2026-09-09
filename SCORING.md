@@ -31,6 +31,25 @@ Round to one decimal place.
 
 Editors can move the final score by up to **±0.5** when the posting contains an unusually revealing combination the raw arithmetic misses. Explain any adjustment.
 
+## Danger Premium overlay
+
+Some jobs are narrow and coherent yet expose workers to serious physical hazards. The ordinary Horrendous Score can understate these postings because the rubric was designed primarily around scope, coordination, authority, availability, credentials, and compensation.
+
+For those roles, record a separate **Danger Premium** from **0 to 5**. It does **not** alter the Horrendous Score, preserving comparability with older entries.
+
+| Danger Premium | Reading |
+|---:|---|
+| **0** | Ordinary workplace exposure |
+| **1** | Minor physical demands or routine low-consequence hazards |
+| **2** | Meaningful physical demands, PPE, driving, outdoor exposure, or routine equipment risk |
+| **3** | Elevated hazard such as frequent heights, roadside exposure, heavy machinery, biohazards, or hazardous materials |
+| **4** | Severe exposure where an error or equipment failure can cause major injury |
+| **5** | Catastrophic-consequence exposure paired with compensation that appears strikingly ordinary for the risk |
+
+Danger evidence can include fall-arrest systems, high-rise exterior work, live electrical systems, confined spaces, sewage or biohazard cleanup, emergency restoration, hazardous-material remediation, roadside exposure, heavy industrial equipment, violent-intervention duties, overnight isolation, or comparable hazards.
+
+Keep editorial wage expectations clearly labeled as editorial commentary. A stated “this feels like a $X/hour job” benchmark is useful context, but it must never be presented as a prevailing-market-wage claim without separate evidence.
+
 ## Interpretation
 
 | Score | Reading |
