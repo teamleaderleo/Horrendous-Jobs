@@ -55,7 +55,7 @@ The ordinary Horrendous Score was built around scope, coordination, authority, a
 |---:|---|---|---:|---|
 | **5 / 5** | Himalayas Building Maintenance Ltd. | [High Rise Window Cleaner](entries/2026-09-08-himalayas-building-maintenance-high-rise-window-cleaner.md) | From CAD $18/hour | 🪂 Exterior high-rise work, fall protection, catastrophic-consequence exposure |
 
-The Himalayas specimen scores only **4.8 / 10** under the ordinary rubric because the job itself is narrow. Its **5 / 5 Danger Premium** records what that score misses. The dossier also preserves an editorial pay benchmark of **CAD $35–$40/hour** as an intuitive minimum expectation for this level of danger; that figure is commentary, not a prevailing-market-wage claim.
+The Himalayas specimen scores only **4.8 / 10** under the ordinary rubric because the job itself is narrow. Its **5 / 5 Danger Premium** records what that score misses. Current Toronto evidence suggests **CAD $25–$30/hour** is a more defensible benchmark for competent high-rise work, with **about CAD $27/hour** as a useful representative figure. The advertised CAD $18/hour starting rate is roughly one-third below that benchmark; CAD $35–$40/hour fits better as an upper-end specialized rope-access or senior expectation.
 
 ## Days in the Wild
 
