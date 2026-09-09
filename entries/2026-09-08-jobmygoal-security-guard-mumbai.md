@@ -1,7 +1,7 @@
 # jobmygoal — Security Guard
 
-**Horrendous Score:** 6.3 / 10  
-**Danger Premium:** 3 / 5  
+**Horrendous Score v2:** 9.6 / 10  
+**Legacy v1 score:** 6.3 / 10  
 **Award(s):** 🪙 Minimum Wage Megazord Award · 🪂 Mortal Peril Premium Award  
 **Location:** Vasai East, Mumbai, Maharashtra, India  
 **Listed pay:** INR 15,000–20,000/month  
@@ -45,21 +45,17 @@ The listing is for construction-site security in Vasai East. It advertises a 12-
 | Urgency & interruption load | 4 | Fires, disturbances, medical emergencies, breaches, and hazards are explicit |
 | Experience / credential tax | 1 | HSC plus one to two years' experience |
 | Emotional labor | 0 | Little service-oriented emotional labor stated |
-| After-hours exposure | 5 | Twelve-hour shift and live-on-site condition |
+| Time capture & availability | 5 | Twelve-hour shift paired with residence at the client site |
 | Compensation penalty | 5 | INR 15k–20k/month against long shifts and live-on-site expectations |
-| **Raw total** | **23 / 40** | |
+| Physical danger | 3 | Active construction-site exposure plus explicit fire, safety-hazard, and medical-emergency response |
+| Exit / dependency / coercion | 4 | The worker is expected to live on the client construction site; work and residence are unusually entangled, though the listing does not establish forced labor |
 
-**Calculated score:** 5.8 / 10  
-**Editorial adjustment:** +0.5  
-**Final score:** **6.3 / 10**
-
-## Danger Premium
-
-**3 / 5.** The worker is stationed at an active construction site and explicitly expected to identify safety hazards and respond to fires and medical emergencies.
+**Worst four dimensions:** 5, 5, 4, 4  
+**Horrendous Score v2:** **9.6 / 10**
 
 ## Why it belongs here
 
-This job turns the worksite into both workplace and residence. The guard watches construction materials, handles access and incidents for twelve hours, then remains physically located at the client site.
+This job turns the worksite into both workplace and residence. The guard watches construction materials, handles access and serious incidents for twelve hours, then remains physically located at the client site. Pay, time capture, responsibility, and dependency all hit the upper end of the scale.
 
 ## Signature crime
 
@@ -70,3 +66,7 @@ This job turns the worksite into both workplace and residence. The guard watches
 | Date | Event | Details |
 |---|---|---|
 | 2026-09-08 | First observed | Active LinkedIn listing; INR 15k–20k; 8 AM–8 PM; living on construction client site |
+
+## Notes
+
+The original v1 score was 6.3/10. V2 treats residence capture and severe schedule/pay terms as central harms instead of side context.
