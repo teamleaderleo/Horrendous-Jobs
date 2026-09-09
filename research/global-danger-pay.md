@@ -2,9 +2,17 @@
 
 *Research note, observed 2026-09-08.*
 
-The ordinary Horrendous Jobs leaderboard scores public job postings. This note looks at a different beast: occupations and labor arrangements where physical danger, miserable conditions, weak compensation, wage theft, coercion, or inability to leave pile on top of each other.
+The ordinary Horrendous Jobs archive scores public job postings. This note looks at a different beast: occupations and labor arrangements where physical danger, miserable conditions, weak compensation, wage theft, coercion, or inability to leave pile on top of each other.
 
-This is a research layer beside the specimen index. The tiers below are editorial. They do not use the 0–10 Horrendous Score, and they should not be copied into the posting leaderboard without a specific public posting and its own evidence.
+The tiers below are editorial research categories. They are not direct posting scores because there is no single employer offer to score. **Horrendous Score v2** now gives the worst cases a useful ceiling calibration, though:
+
+| Reference | Approximate v2 calibration |
+|---|---:|
+| **Debt-bonded brick-kiln labor, Pakistan** | **10.0** |
+| **Shipbreaking, Chattogram, Bangladesh** | **~9.8–9.9** |
+| **Hazardous sewer / septic-tank entry, India** | **~9.6–9.8** |
+
+Those values answer a calibration question: *if a public posting openly contained the same worker bargain, where would the scale put it?* Brick-kiln bondage reaches the ceiling because extreme pay/time, serious danger, and inability to leave can all max out simultaneously. Shipbreaking and hazardous sewer entry sit just below or around the same edge through lethal exposure and weak compensation.
 
 There is no clean global unit for “money-to-danger-and-shittiness ratio.” A taka wage in Chattogram, a yuan wage in Kachin State, debt-bonded brick work in Punjab, and an undocumented gold miner’s share in South Africa are economically different things. The useful comparison is the whole worker bargain:
 
@@ -50,9 +58,9 @@ Once debt bondage or forced labor enters the picture, the compensation side of t
 
 ## How this fits Horrendous Jobs
 
-The existing **Danger Premium** remains the right overlay for a specific public posting. This note has a broader purpose: it gives that cabinet a global reference point.
+V2 folds **Physical danger** and **Exit / dependency / coercion** into the main score. The old separate Danger Premium survives only as historical annotation on legacy dossiers.
 
-A Toronto high-rise window-cleaning posting at CAD $18/hour can deserve a 5/5 Danger Premium because the advertised compensation is strikingly ordinary for catastrophic fall exposure. The examples above show the far end of the same idea, where safety systems, wage reliability, legal status and even the worker’s freedom to leave can all degrade together.
+The Toronto high-rise window-cleaning specimen at CAD $18/hour now scores **9.1/10** because catastrophic fall exposure and weak compensation dominate the calculation. The examples above show the far end of the same idea, where safety systems, wage reliability, legal status, time capture and even freedom to leave can degrade together.
 
 For future specimen hunting, especially useful categories include:
 
@@ -66,6 +74,8 @@ For future specimen hunting, especially useful categories include:
 - jobs with recruitment debt, withheld documents or wage delays.
 
 A public posting from one of those categories should still be scored on its own terms. The global cabinet is context, not a substitute for the posting.
+
+Canonical v2 formula and anchors: [`../SCORING.md`](../SCORING.md).
 
 ## Sources
 
