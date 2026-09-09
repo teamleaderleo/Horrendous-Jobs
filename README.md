@@ -47,6 +47,16 @@ The goal is comedy **and** a usable dataset. Every entry records the advertised 
 
 See [`entries/`](entries/) for the dossiers.
 
+## Danger cabinet
+
+The ordinary Horrendous Score was built around scope, coordination, authority, availability, credentials, and compensation. Narrow jobs with serious physical hazards can slip through that net, so dangerous roles also receive a separate **Danger Premium** from 0 to 5.
+
+| Danger | Company | Role | Listed pay | Hazard |
+|---:|---|---|---:|---|
+| **5 / 5** | Himalayas Building Maintenance Ltd. | [High Rise Window Cleaner](entries/2026-09-08-himalayas-building-maintenance-high-rise-window-cleaner.md) | From CAD $18/hour | 🪂 Exterior high-rise work, fall protection, catastrophic-consequence exposure |
+
+The Himalayas specimen scores only **4.8 / 10** under the ordinary rubric because the job itself is narrow. Its **5 / 5 Danger Premium** records what that score misses. The dossier also preserves an editorial pay benchmark of **CAD $35–$40/hour** as an intuitive minimum expectation for this level of danger; that figure is commentary, not a prevailing-market-wage claim.
+
 ## Days in the Wild
 
 Each specimen now has a persistence record. We track **first seen, last seen, disappearance, reposts, salary changes, title changes, and Days in the Wild**.
@@ -80,7 +90,7 @@ Each posting is judged across eight dimensions:
 - **After-hours exposure** — evenings, weekends, travel, emergencies, event coverage.
 - **Compensation & upside** — salary, meaningful incentives, autonomy, ownership, and career leverage.
 
-The score is deliberately editorial. The underlying facts should always be traceable to the posting.
+The score is deliberately editorial. The underlying facts should always be traceable to the posting. Dangerous work can also receive a separate **Danger Premium** so physical peril is recorded without changing the historical score formula.
 
 Full rubric: [`SCORING.md`](SCORING.md)
 
@@ -98,6 +108,7 @@ Recurring achievements in the field of employment horror:
 - 💰 **Surely There's Equity? Award** — startup-level scope with ordinary employee upside.
 - 🎓 **Degree Required to Send Follow-Ups Award** — credential requirements wildly exceed the intellectual content of the role.
 - 🪙 **Minimum Wage Megazord Award** — professional credentials and multiple functions assembled around near-floor compensation.
+- 🪂 **Mortal Peril Premium Award** — serious physical hazard paired with astonishingly ordinary compensation.
 
 ## Add a specimen
 
@@ -123,13 +134,13 @@ A strong finished entry includes:
 - **Quote sparingly.** Summarize job descriptions and link to the original source instead of reproducing them wholesale.
 - **Show your work.** Separate facts from commentary.
 - **Keep historical entries.** A dead listing is still useful evidence; mark it inactive when known.
-- **Pay is contextual.** Currency, location, hours, employment type, and date belong with the number.
+- **Pay is contextual.** Currency, location, hours, employment type, danger exposure, and date belong with the number.
 - **The title proves nothing.** Score what the employer actually asks the person to do.
 - **Track observed facts.** A disappearance records that the listing vanished from the checked source; it says nothing by itself about whether somebody was hired.
 
 ## Status
 
-Started in Toronto in September 2026. Thirty-four specimens indexed and persistence tracking initialized. Geographic expansion encouraged.
+Started in Toronto in September 2026. Thirty-five specimens indexed and persistence tracking initialized. Geographic expansion encouraged.
 
 ---
 
