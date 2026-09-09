@@ -1,7 +1,7 @@
 # Himalayas Building Maintenance Ltd. — High Rise Window Cleaner
 
-**Horrendous Score:** 4.8 / 10  
-**Danger Premium:** 5 / 5  
+**Horrendous Score v2:** 9.1 / 10  
+**Legacy v1 score:** 4.8 / 10  
 **Award(s):** 🪂 Mortal Peril Premium Award · 🪙 Minimum Wage Megazord Award  
 **Location:** Etobicoke / GTA, ON, Canada  
 **Listed pay:** From CAD $18/hour  
@@ -47,23 +47,15 @@ The role performs exterior window and glass cleaning on high-rise buildings thro
 | Urgency & interruption load | 2 | Project work is exposed to site conditions and changing schedules |
 | Experience / credential tax | 2 | High-rise experience is preferred and safety training/certifications may apply, though training is offered |
 | Emotional labor | 0 | Little advertised customer-facing emotional labor |
-| After-hours exposure | 2 | Occasional weekend work and travel among GTA sites |
+| Time capture & availability | 2 | Approximately 30–40 hours/week with occasional weekend work and GTA travel |
 | Compensation penalty | 5 | From CAD $18/hour for work whose failure modes include severe injury or death |
-| **Raw total** | **17 / 40** | |
+| Physical danger | 5 | Exterior high-rise work with fall-protection systems has catastrophic-consequence failure modes |
+| Exit / dependency / coercion | 0 | No tied housing, visa, debt, or restriction on leaving is stated |
 
-**Calculated score:** 4.3 / 10  
-**Editorial adjustment:** +0.5  
-**Final score:** **4.8 / 10**
+**Worst four dimensions:** 5, 5, 3, 2  
+**Horrendous Score v2:** **9.1 / 10**
 
-## Danger Premium
-
-**Danger Premium: 5 / 5 — catastrophic-consequence exposure.**
-
-This overlay records serious physical risk separately from the ordinary Horrendous Score. The existing rubric was built around scope, coordination, authority, credentials, availability, and compensation; a narrow but dangerous job can therefore score surprisingly low even when its pay-to-risk bargain is extraordinary.
-
-The advertised facts here include exterior high-rise work, fall-protection equipment, physically demanding outdoor labour, and comfort working at heights, paired with a starting rate of CAD $18/hour.
-
-### Calibrated pay context
+## Calibrated pay context
 
 Current wage evidence suggests **CAD $25–$30/hour** is a more defensible benchmark for competent high-rise window-cleaning work in Toronto, with **about CAD $27/hour** serving as a reasonable representative figure.
 
@@ -73,9 +65,7 @@ The project's earlier CAD $35–$40/hour intuition therefore fits better as an u
 
 ## Why it belongs here
 
-This entry exposes a blind spot in the original scoring system. The job itself is coherent and relatively narrow, so the usual scope-creep machinery barely moves. The compensation question changes completely once the work environment enters the frame: exterior high-rise cleaning, fall protection, outdoor physical demands, and the possibility that a single safety failure can have catastrophic consequences.
-
-The posting therefore belongs in the archive as a danger-pay specimen even though its ordinary Horrendous Score sits below the main leaderboard range.
+The original rubric gave this job 4.8/10 because narrow scope and low emotional labor averaged away the physical reality. V2 treats catastrophic fall exposure and weak pay as the dominant facts. The job remains coherent; the bargain is still horrific.
 
 ## Signature crime
 
@@ -91,4 +81,4 @@ The posting therefore belongs in the archive as a danger-pay specimen even thoug
 
 The employer states that previous high-rise window-cleaning experience is preferred but not required and that suitable candidates can receive training. Expected hours are approximately 30–40 per week, with occasional weekend work.
 
-Pay calibration checked September 8, 2026 against Government of Canada Job Bank Toronto window-washer wage data and current Toronto high-rise / rope-access postings.
+The old 5/5 Danger Premium is now represented directly as **Physical danger: 5/5** inside v2.

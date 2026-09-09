@@ -1,7 +1,7 @@
 # SKY RISE ENTERPRISES — Cleaner (Bahrain recruitment post)
 
-**Horrendous Score:** 4.3 / 10  
-**Danger Premium:** 1 / 5  
+**Horrendous Score v2:** 9.1 / 10  
+**Legacy v1 score:** 4.3 / 10  
 **Award(s):** 🪙 Minimum Wage Megazord Award  
 **Location:** Bahrain  
 **Listed pay:** BHD 110/month  
@@ -38,21 +38,17 @@ The public recruiter post identifies the role as Cleaner without a detailed duty
 | Urgency & interruption load | 2 | Urgent overseas recruitment and long duty schedule |
 | Experience / credential tax | 0 | No experience requirement stated in the post |
 | Emotional labor | 0 | None stated |
-| After-hours exposure | 5 | Twelve-hour days with only two days off per month |
+| Time capture & availability | 5 | Twelve-hour days with only two days off per month; roughly 336 scheduled hours in a 30-day month |
 | Compensation penalty | 5 | BHD 110/month cash salary for the advertised schedule |
-| **Raw total** | **15 / 40** | |
+| Physical danger | 1 | Cleaning is physically demanding, but the post identifies no severe specific hazard |
+| Exit / dependency / coercion | 3 | Overseas placement plus employer-provided accommodation and transportation materially raises practical dependence; the post does not prove coercion or document control |
 
-**Calculated score:** 3.8 / 10  
-**Editorial adjustment:** +0.5  
-**Final score:** **4.3 / 10**
-
-## Danger Premium
-
-**1 / 5.** Cleaning is physically demanding, but the recruiter post does not identify a severe specific hazard.
+**Worst four dimensions:** 5, 5, 3, 2  
+**Horrendous Score v2:** **9.1 / 10**
 
 ## Why it belongs here
 
-At 28 scheduled working days in a 30-day month, twelve-hour duty implies roughly 336 scheduled hours. The housing and transport package changes the worker's expenses; it does not change how much of the month the job buys.
+The housing and transport package changes the worker's expenses; it does not change how much of the month the job buys. With only two rest days a month, the schedule is an enormous claim on the worker's life for BHD 110 in cash pay.
 
 ## Signature crime
 
@@ -67,3 +63,5 @@ At 28 scheduled working days in a 30-day month, twelve-hour duty implies roughly
 ## Notes
 
 This is a public recruiter/company post rather than a LinkedIn Jobs card. The dossier preserves that provenance explicitly.
+
+The original v1 score was 4.3/10 because the role's simplicity diluted the schedule and pay. V2 removes that discount.

@@ -1,7 +1,7 @@
 # SKYPERZ Building Cleaning Services — IRATA Level 1 Technician
 
-**Horrendous Score:** 5.5 / 10  
-**Danger Premium:** 5 / 5  
+**Horrendous Score v2:** 9.6 / 10  
+**Legacy v1 score:** 5.5 / 10  
 **Award(s):** 🪂 Mortal Peril Premium Award · 🪙 Minimum Wage Megazord Award  
 **Location:** Dubai, United Arab Emirates  
 **Listed pay:** AED 1,600–1,900/month  
@@ -47,21 +47,17 @@ SKYPERZ advertises an on-site IRATA Level 1 Technician in Dubai for façade and 
 | Urgency & interruption load | 2 | Site work and safety conditions can change; no constant escalation stated |
 | Experience / credential tax | 4 | Active IRATA certification plus technical and safety competence |
 | Emotional labor | 0 | Little customer-facing work stated |
-| After-hours exposure | 2 | On-site physical work; schedule not supplied |
+| Time capture & availability | 2 | On-site physical work; schedule is not supplied |
 | Compensation penalty | 5 | AED 1.6k–1.9k/month for certified high-rise rope-access cleaning |
-| **Raw total** | **20 / 40** | |
+| Physical danger | 5 | High-elevation façade/window cleaning is performed by rope access; a serious equipment or procedural failure can be fatal |
+| Exit / dependency / coercion | 2 | Employer-provided accommodation and transportation create practical dependence; no coercion is established |
 
-**Calculated score:** 5.0 / 10  
-**Editorial adjustment:** +0.5  
-**Final score:** **5.5 / 10**
-
-## Danger Premium
-
-**5 / 5 — catastrophic-consequence exposure.** The work is explicitly high-elevation façade and window cleaning performed by rope access. Certification, equipment inspection, safety protocols, and physical fitness are all core requirements because a serious failure can be fatal.
+**Worst four dimensions:** 5, 5, 4, 4  
+**Horrendous Score v2:** **9.6 / 10**
 
 ## Why it belongs here
 
-The role is technically coherent, so the ordinary scope-based score stays moderate. The danger-pay bargain is the entire point: a certified worker is suspended on ropes outside high-rise buildings for AED 1,600–1,900/month.
+The role is technically coherent, which used to suppress its score. V2 treats the actual bargain as decisive: a certified worker is suspended on ropes outside high-rise buildings for AED 1,600–1,900/month while carrying immediate personal-safety responsibility.
 
 ## Signature crime
 
@@ -72,3 +68,7 @@ The role is technically coherent, so the ordinary scope-based score stays modera
 | Date | Event | Details |
 |---|---|---|
 | 2026-09-08 | First observed | LinkedIn listing visible; applications shown as closed; AED 1.6k–1.9k; accommodation and transport provided |
+
+## Notes
+
+The original v1 score was 5.5/10 with a separate 5/5 Danger Premium. V2 folds that catastrophic exposure into the primary score.

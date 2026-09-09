@@ -1,7 +1,7 @@
 # MSS Facility Management Services — Security Guard
 
-**Horrendous Score:** 4.8 / 10  
-**Danger Premium:** 2 / 5  
+**Horrendous Score v2:** 9.1 / 10  
+**Legacy v1 score:** 4.8 / 10  
 **Award(s):** 🪙 Minimum Wage Megazord Award  
 **Location:** Chennai, Tamil Nadu, India  
 **Listed pay:** INR 18,000/month  
@@ -36,21 +36,17 @@ The public listing does not provide detailed qualifications.
 | Urgency & interruption load | 2 | Security work can require response to incidents, though the posting is sparse |
 | Experience / credential tax | 0 | Entry-level listing; no credential burden stated |
 | Emotional labor | 0 | No customer-service burden stated |
-| After-hours exposure | 5 | Twelve hours every day, seven days per week |
+| Time capture & availability | 5 | Twelve hours every day, seven days per week: 84 scheduled hours |
 | Compensation penalty | 5 | INR 18,000/month against an advertised 84-hour week |
-| **Raw total** | **17 / 40** | |
+| Physical danger | 2 | Security work carries routine physical and incident-response exposure; no severe specific hazard is described |
+| Exit / dependency / coercion | 0 | No tied housing, visa, debt, or restriction on leaving is stated |
 
-**Calculated score:** 4.3 / 10  
-**Editorial adjustment:** +0.5  
-**Final score:** **4.8 / 10**
-
-## Danger Premium
-
-**2 / 5.** Security work carries routine physical and incident-response exposure, but this public listing does not describe a severe specific hazard.
+**Worst four dimensions:** 5, 5, 3, 2  
+**Horrendous Score v2:** **9.1 / 10**
 
 ## Why it belongs here
 
-This specimen shows exactly where the ordinary Horrendous Score runs out of vocabulary. The job is narrow, the description is tiny, and the schedule is breathtaking: 84 scheduled hours every week with no advertised weekly rest day.
+This specimen is the reason v2 exists. The job is narrow and the description is tiny, but the employer is advertising **84 scheduled hours every week** with no weekly rest day for INR 18,000/month. Low scope creep is irrelevant consolation when time capture and compensation both hit the top of the scale.
 
 ## Signature crime
 
@@ -65,3 +61,5 @@ This specimen shows exactly where the ordinary Horrendous Score runs out of voca
 ## Notes
 
 The source is unusually sparse, so the dossier avoids inferring duties or qualifications that are not stated. The schedule itself is the specimen.
+
+The original v1 score was 4.8/10 because six low-intensity dimensions diluted the two catastrophic ones. V2 intentionally prevents that averaging effect.
