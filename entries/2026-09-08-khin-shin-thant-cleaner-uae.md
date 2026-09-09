@@ -1,7 +1,7 @@
 # Khin Shin Thant — Cleaner (UAE recruitment post)
 
-**Horrendous Score:** 4.3 / 10  
-**Danger Premium:** 1 / 5  
+**Horrendous Score v2:** 9.1 / 10  
+**Legacy v1 score:** 4.3 / 10  
 **Award(s):** 🪙 Minimum Wage Megazord Award  
 **Location:** Dubai, United Arab Emirates  
 **Listed pay:** AED 900/month  
@@ -38,17 +38,13 @@ The post identifies Cleaner positions without a detailed task list.
 | Urgency & interruption load | 2 | Recruitment pitch plus long shifts |
 | Experience / credential tax | 0 | No formal credential requirement stated |
 | Emotional labor | 0 | None stated |
-| After-hours exposure | 5 | Twelve hours/day, six days/week |
+| Time capture & availability | 5 | Twelve hours/day, six days/week |
 | Compensation penalty | 5 | AED 900/month cash wage for the advertised schedule |
-| **Raw total** | **15 / 40** | |
+| Physical danger | 1 | Cleaning is physical work; no severe specific hazard is described |
+| Exit / dependency / coercion | 3 | Employment visa, accommodation, meals, and transportation tie major daily necessities to the overseas job without proving inability to leave |
 
-**Calculated score:** 3.8 / 10  
-**Editorial adjustment:** +0.5  
-**Final score:** **4.3 / 10**
-
-## Danger Premium
-
-**1 / 5.** Cleaning is physical work; no severe specific hazard is described.
+**Worst four dimensions:** 5, 5, 3, 2  
+**Horrendous Score v2:** **9.1 / 10**
 
 ## Why it belongs here
 
@@ -65,3 +61,7 @@ The public comments under the post are unusually revealing: commenters call the 
 | Date | Event | Details |
 |---|---|---|
 | 2026-09-08 | First observed | Public LinkedIn recruitment post visible; application status uncertain; AED 900; 12 hours; one day off/week |
+
+## Notes
+
+The original v1 score was 4.3/10. V2 counts the 72-hour schedule, low cash wage, and overseas dependency as the central bargain.
