@@ -48,14 +48,14 @@ The listing is for construction-site security in Vasai East. It advertises a 12-
 | Time capture & availability | 5 | Twelve-hour shift paired with residence at the client site |
 | Compensation penalty | 5 | INR 15k–20k/month against long shifts and live-on-site expectations |
 | Physical danger | 3 | Active construction-site exposure plus explicit fire, safety-hazard, and medical-emergency response |
-| Exit / dependency / coercion | 4 | The worker is expected to live on the client construction site; work and residence are unusually entangled, though the listing does not establish forced labor |
+| Exit / dependency / coercion | 3 | Living on the construction client site materially ties housing to employment; the listing does not establish restricted movement or forced labor |
 
 **Worst four dimensions:** 5, 5, 4, 4  
 **Horrendous Score v2:** **9.6 / 10**
 
 ## Why it belongs here
 
-This job turns the worksite into both workplace and residence. The guard watches construction materials, handles access and serious incidents for twelve hours, then remains physically located at the client site. Pay, time capture, responsibility, and dependency all hit the upper end of the scale.
+This job turns the worksite into both workplace and residence. The guard watches construction materials, handles access and serious incidents for twelve hours, then remains physically located at the client site. Pay, time capture, responsibility, and urgency all hit the upper end of the scale.
 
 ## Signature crime
 
