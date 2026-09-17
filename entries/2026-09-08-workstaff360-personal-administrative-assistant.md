@@ -57,6 +57,18 @@ This personal administrative assistant role combines calendar and meeting manage
 
 The posting asks for experienced executive-style support across professional and personal domains while advertising a rate that overwhelms nearly every other feature of the offer. Travel, events, budgets, research, errands, gatekeeping, document work, and meeting administration all arrive inside the same 20-hour role.
 
+## Editorial roast
+
+You survive eight weeks. Management gathers.
+
+“Excellent calendar management. Impeccable discretion. The travel plans landed. The vendors got coordinated. The budgets reconcile. The executive deck is clean.”
+
+“Promote them.”
+
+**King, welcome to five dollars.**
+
+The advertised one-dollar raise is somehow both technically a 25% increase and still one of the funniest compensation stories in the repository.
+
 ## Signature crime
 
 > Handle executive admin, travel, events, budgets, research, errands, and gatekeeping for USD $4/hour to start.
