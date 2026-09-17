@@ -1,6 +1,6 @@
 # Himalayas Building Maintenance Ltd. — High Rise Window Cleaner
 
-**Horrendous Score v2:** 9.1 / 10  
+**Horrendous Score v2:** 9.6 / 10  
 **Legacy v1 score:** 4.8 / 10  
 **Award(s):** 🪂 Mortal Peril Premium Award · 🪙 Minimum Wage Megazord Award  
 **Location:** Etobicoke / GTA, ON, Canada  
@@ -53,7 +53,9 @@ The role performs exterior window and glass cleaning on high-rise buildings thro
 | Exit / dependency / coercion | 0 | No tied housing, visa, debt, or restriction on leaving is stated |
 
 **Worst four dimensions:** 5, 5, 3, 2  
-**Horrendous Score v2:** **9.1 / 10**
+**Base score:** **9.1 / 10**  
+**Human-harm floor:** **9.6** — Physical danger 5/5 + severe compensation co-harm  
+**Horrendous Score v2:** **9.6 / 10**
 
 ## Calibrated pay context
 
@@ -65,7 +67,7 @@ The project's earlier CAD $35–$40/hour intuition therefore fits better as an u
 
 ## Why it belongs here
 
-The original rubric gave this job 4.8/10 because narrow scope and low emotional labor averaged away the physical reality. V2 treats catastrophic fall exposure and weak pay as the dominant facts. The job remains coherent; the bargain is still horrific.
+The original rubric gave this job 4.8/10 because narrow scope and low emotional labor averaged away the physical reality. The original v2 base calculation fixed most of that problem but still left catastrophic fall exposure tied with ordinary 5/5 compensation penalties. The human-harm floor now gives the lethal failure mode priority: high-rise fall exposure plus very weak pay sets a 9.6 minimum.
 
 ## Editorial roast
 
@@ -82,9 +84,10 @@ CAD $18/hour. Exterior high-rise glass. Fall protection. Physically demanding ou
 | Date | Event | Details |
 |---|---|---|
 | 2026-09-08 | First observed | Active on Indeed; from CAD $18/hour |
+| 2026-09-17 | Rescored | 9.1 → 9.6 under the catastrophic-danger + severe-pay floor |
 
 ## Notes
 
 The employer states that previous high-rise window-cleaning experience is preferred but not required and that suitable candidates can receive training. Expected hours are approximately 30–40 per week, with occasional weekend work.
 
-The old 5/5 Danger Premium is now represented directly as **Physical danger: 5/5** inside v2.
+The old 5/5 Danger Premium is now represented directly as **Physical danger: 5/5**, with the v2 human-harm floor preventing catastrophic fall risk from being treated as interchangeable with ordinary economic penalties.

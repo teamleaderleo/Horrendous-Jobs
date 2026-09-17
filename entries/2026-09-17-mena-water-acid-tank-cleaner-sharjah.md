@@ -1,6 +1,6 @@
 # MENA-Water — Acid Tank Cleaner
 
-**Horrendous Score v2:** 8.2 / 10  
+**Horrendous Score v2:** 9.3 / 10  
 **Award(s):** 🪂 Mortal Peril Premium Award  
 **Location:** Sharjah, UAE  
 **Listed pay:** Not disclosed  
@@ -48,11 +48,13 @@ An acid-tank-cleaning role for storage and processing tanks. The worker removes 
 | Exit / dependency / coercion | 0 | No tied housing, visa, debt or restriction stated |
 
 **Worst four dimensions:** 5, 3, 2, 2  
-**Horrendous Score v2:** **8.2 / 10**
+**Base score:** **8.2 / 10**  
+**Human-harm floor:** **9.3** — Physical danger 5/5  
+**Horrendous Score v2:** **9.3 / 10**
 
 ## Why it belongs here
 
-The title itself is unusually literal. This is industrial acid-tank cleaning with chemical waste and confined-space procedures. The absence of disclosed pay prevents the role from climbing farther up the scale.
+The title is unusually literal: industrial acid-tank cleaning with chemical waste and confined-space procedures. The listing withholds pay and hours, so those dimensions remain unscored. Under the human-harm floor, missing economic information no longer suppresses a documented catastrophic hazard below the extreme human-cost band.
 
 ## Editorial roast
 
@@ -73,7 +75,8 @@ The posting has elected silence.
 | Date | Event | Details |
 |---|---|---|
 | 2026-09-17 | First observed | Active LinkedIn listing; compensation undisclosed |
+| 2026-09-17 | Rescored | 8.2 → 9.3 after v2 human-harm floor made catastrophic danger independently score-bearing |
 
 ## Notes
 
-The 8.2 score is evidence-limited and intentionally leaves compensation at 0. If verified pay or schedule information appears later, rescore the specimen rather than guessing.
+The base score remains 8.2 because compensation and schedule are unknown. The final 9.3 is driven solely by verified 5/5 physical danger. If verified weak pay, extreme hours, or employer dependency appears later, the danger floor can rise to 9.6 or 9.8 under the canonical rubric.

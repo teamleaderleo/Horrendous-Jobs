@@ -10,38 +10,40 @@ The goal is comedy **and** a usable dataset. Every entry records the advertised 
 
 **Horrendous Score v2 is now canonical.** The old formula averaged every dimension together, which let easy dimensions cancel catastrophic ones. A narrow 84-hour security job could therefore score lower than a busy office coordinator.
 
-V2 scores ten dimensions and lets the **four worst harms dominate**:
+V2 scores ten dimensions and lets the **four worst harms dominate** to produce a base score:
 
 ```text
-Score = 2 × (0.50×h1 + 0.30×h2 + 0.15×h3 + 0.05×h4)
+Base = 2 × (0.50×h1 + 0.30×h2 + 0.15×h3 + 0.05×h4)
+Final = max(Base, applicable human-harm floor)
 ```
 
 where `h1 >= h2 >= h3 >= h4` are the four highest dimension scores.
 
-Physical danger and exit/dependency/coercion now live inside the main score. Older dossiers can preserve their old number as a **Legacy v1 score** while they are migrated.
+Catastrophic physical danger and severe coercion can now impose **human-harm floors** after the base calculation. A documented lethal hazard scores at least 9.3; lethal danger plus weak pay, extreme hours, or meaningful dependency can force 9.6 or 9.8. Severe coercion receives equivalent near-ceiling treatment. Human life and freedom outrank ordinary economic insult.
 
-Full rubric and ceiling calibration: [`SCORING.md`](SCORING.md)
+Full rubric, floors and ceiling calibration: [`SCORING.md`](SCORING.md)
 
 ## Global Job-Board Abyss — v2
 
-These are the public listings and recruiter posts that forced the scoring rewrite.
+These are public listings and recruiter posts that forced the scoring rewrite.
 
 | Score v2 | Specimen | Listed pay | Schedule / condition |
 |---:|---|---:|---|
 | **9.6** | [Construction-Site Security Guard — Mumbai](entries/2026-09-08-jobmygoal-security-guard-mumbai.md) | INR 15k–20k/month | 12-hour shift · live on construction site |
 | **9.6** | [IRATA Level 1 Technician — Dubai](entries/2026-09-08-skyperz-irata-level-1-technician-dubai.md) | AED 1.6k–1.9k/month | Certified high-rise rope access |
+| **9.6** | [High Rise Window Cleaner — Toronto/GTA](entries/2026-09-08-himalayas-building-maintenance-high-rise-window-cleaner.md) | From CAD $18/hour | Exterior high-rise fall exposure |
 | **9.6** | [Live-In Housekeeper — Durban](entries/2026-09-08-debt-relief-group-live-in-housekeeper-durban.md) | ZAR 4k–4.25k/month | Five years' experience · must live on property full-time |
+| **9.3** | [Acid Tank Cleaner — Sharjah](entries/2026-09-17-mena-water-acid-tank-cleaner-sharjah.md) | Pay undisclosed | Acid residue · chemical waste · confined-space procedures |
 | **9.1** | [Security Guard — Chennai](entries/2026-09-08-mss-facility-management-security-guard-chennai.md) | INR 18k/month | **12 hours/day · 7 days/week** |
-| **9.1** | [High Rise Window Cleaner — Toronto/GTA](entries/2026-09-08-himalayas-building-maintenance-high-rise-window-cleaner.md) | From CAD $18/hour | Exterior high-rise fall exposure |
 | **9.1** | [Cleaner — Bahrain recruiter post](entries/2026-09-08-sky-rise-enterprises-cleaner-bahrain.md) | BHD 110/month | 12 hours/day · 2 days off/month |
-| **9.1** | [General Cleaner — Dubai recruiter post](entries/2026-09-08-sky-rise-enterprises-general-cleaner-dubai.md) | AED 900/month + food | 12 hours/day · one weekly off |
+| **9.1** | [General Cleaner — Dubai recruiter post](entries/2026-09-08-sky-rise-enterprises-cleaner-dubai.md) | AED 900/month + food | 12 hours/day · one weekly off |
 | **9.1** | [Cleaner — UAE recruitment post](entries/2026-09-08-khin-shin-thant-cleaner-uae.md) | AED 900/month | 12 hours/day · one weekly off |
 | **8.6** | [Plant Security Guard — Durgapur](entries/2026-09-08-job-resource-point-security-guard-durgapur.md) | INR 15k–17k/month | 12-hour duty · employer lodging · days/week unstated |
 | **7.9** | [SkyCargo Loader — UAE recruitment drive](entries/2026-09-08-amco-enterprise-skycargo-loader-uae.md) | AED 1,008/month | Hours omitted; overseas airport-logistics recruitment |
 
 The ceiling is calibrated against research cases rather than pretending LinkedIn contains the whole labor market: **debt-bonded brick kilns ≈ 10.0**, **Bangladesh shipbreaking ≈ 9.8–9.9**, and **hazardous sewer/septic entry ≈ 9.6–9.8**.
 
-See [`ABYSS.md`](ABYSS.md) for the cabinet and [`research/global-danger-pay.md`](research/global-danger-pay.md) for the broader global reference set.
+See [`ABYSS.md`](ABYSS.md) for the full cabinet and [`research/global-danger-pay.md`](research/global-danger-pay.md) for the broader global reference set.
 
 ## Canadian Software Lowball Cabinet — v2
 
@@ -159,7 +161,7 @@ V2 scores ten dimensions:
 - **Physical danger**
 - **Exit / dependency / coercion**
 
-The four worst dimension scores determine the result. This makes the score intentionally non-compensatory: a low-danger office role can still score through scope and responsibility, while a narrow physical job can score through danger, time, dependency, and pay.
+The four worst dimension scores produce the base score. Catastrophic 5/5 physical danger and severe 4–5/5 coercion can then impose human-harm floors, so lethal exposure and loss of freedom cannot be diluted by missing pay data or benign dimensions.
 
 ## Awards
 
@@ -206,7 +208,7 @@ A strong finished entry includes:
 
 ## Status
 
-Started in Toronto in September 2026. **Sixty-three posting/recruitment specimens** are indexed, the Global Job-Board Abyss is live, the Canadian Minimum-Wage Hall of Fame is open, and v2 scoring migration has begun.
+Started in Toronto in September 2026. **Sixty-nine posting/recruitment specimens** are indexed, the Global Job-Board Abyss is live, the Canadian Minimum-Wage Hall of Fame is open, and v2 scoring now includes human-harm floors for catastrophic danger and severe coercion.
 
 ---
 

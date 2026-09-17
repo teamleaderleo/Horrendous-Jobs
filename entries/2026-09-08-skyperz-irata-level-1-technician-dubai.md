@@ -53,11 +53,13 @@ SKYPERZ advertises an on-site IRATA Level 1 Technician in Dubai for façade and 
 | Exit / dependency / coercion | 2 | Employer-provided accommodation and transportation create practical dependence; no coercion is established |
 
 **Worst four dimensions:** 5, 5, 4, 4  
+**Base score:** **9.6 / 10**  
+**Human-harm floor:** **9.6** — Physical danger 5/5 + severe compensation co-harm  
 **Horrendous Score v2:** **9.6 / 10**
 
 ## Why it belongs here
 
-The role is technically coherent, which used to suppress its score. V2 treats the actual bargain as decisive: a certified worker is suspended on ropes outside high-rise buildings for AED 1,600–1,900/month while carrying immediate personal-safety responsibility.
+The role is technically coherent, which used to suppress its score. V2 treats the actual bargain as decisive: a certified worker is suspended on ropes outside high-rise buildings for AED 1,600–1,900/month while carrying immediate personal-safety responsibility. The base score already reaches the same 9.6 minimum now required by the human-harm floor.
 
 ## Signature crime
 
@@ -68,7 +70,8 @@ The role is technically coherent, which used to suppress its score. V2 treats th
 | Date | Event | Details |
 |---|---|---|
 | 2026-09-08 | First observed | LinkedIn listing visible; applications shown as closed; AED 1.6k–1.9k; accommodation and transport provided |
+| 2026-09-17 | Floor annotation | Final score unchanged at 9.6; catastrophic danger + severe pay now independently require at least 9.6 |
 
 ## Notes
 
-The original v1 score was 5.5/10 with a separate 5/5 Danger Premium. V2 folds that catastrophic exposure into the primary score.
+The original v1 score was 5.5/10 with a separate 5/5 Danger Premium. V2 folds that catastrophic exposure into the primary score, and the human-harm floor prevents a future formula change or missing benign dimensions from pushing the role below 9.6.

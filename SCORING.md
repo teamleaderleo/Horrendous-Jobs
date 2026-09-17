@@ -8,6 +8,12 @@ The governing idea in v2 is simple:
 
 A narrow job can still be a 9.5. A simple job can still be a 10. If an employer buys nearly all of a worker's waking life for very little money, ties housing or immigration status to the job, or sends somebody into lethal conditions, low scope creep is irrelevant consolation.
 
+A second principle now sits beside it:
+
+> **Threats to life, bodily integrity, and freedom outrank ordinary economic insult.**
+
+A lethal confined space, severe toxic exposure, catastrophic fall risk, or documented coercion should not score below a merely cheap employer because the dangerous posting omits salary or has a narrow job description.
+
 ## Dimensions
 
 Score each dimension from **0 to 5**.
@@ -46,14 +52,50 @@ Score each dimension from **0 to 5**.
 Score every dimension supported by the evidence, then sort the scores from highest to lowest. Let the four highest scores be `h1 >= h2 >= h3 >= h4`.
 
 ```text
-Horrendous Score v2 = 2 × (0.50×h1 + 0.30×h2 + 0.15×h3 + 0.05×h4)
+Base Horrendous Score = 2 × (0.50×h1 + 0.30×h2 + 0.15×h3 + 0.05×h4)
 ```
 
 Round to one decimal place.
 
-This is deliberately **non-compensatory**. The two worst harms carry 80% of the score. An easy-to-describe job with no credential requirement does not receive a giant discount for buying 84 hours of somebody's week at miserable pay.
+This is deliberately **non-compensatory**. The two worst harms carry 80% of the base score. An easy-to-describe job with no credential requirement does not receive a giant discount for buying 84 hours of somebody's week at miserable pay.
 
-There is no generic ±0.5 editorial adjustment in v2. If a dimension needs a different score, change that dimension and explain the evidence.
+## Human-harm floors
+
+The worst-four calculation still treats every 5/5 dimension as mathematically interchangeable. Human life and freedom deserve additional priority. After calculating the base score, apply the strongest supported floor below.
+
+### Catastrophic physical danger
+
+If **Physical danger = 5/5**:
+
+- Final score is at least **9.3**.
+- If the job also has **one severe co-harm**, final score is at least **9.6**.
+- If it has **two or more severe co-harms**, final score is at least **9.8**.
+
+For this rule, a **severe co-harm** means any of:
+
+- Compensation penalty **4–5**
+- Time capture & availability **4–5**
+- Exit / dependency / coercion **3–5**
+
+Examples of 5/5 physical danger include lethal confined-space exposure, severe toxic or corrosive exposure, exterior rope/high-rise work where a single failure can kill, or similarly catastrophic industrial work.
+
+### Severe coercion
+
+If **Exit / dependency / coercion = 4/5**, final score is at least **9.3**.
+
+If **Exit / dependency / coercion = 5/5**, final score is at least **9.8**.
+
+This gives documented wage withholding, document control, recruitment debt with meaningful exit restriction, forced labor, debt bondage, or equivalent control the weight it deserves even when the job is otherwise narrow.
+
+### Final calculation
+
+```text
+Horrendous Score v2 = max(Base Horrendous Score, applicable human-harm floor)
+```
+
+Round to one decimal place after applying the floor.
+
+There is no generic ±0.5 editorial adjustment in v2. If a dimension needs a different score, change that dimension and explain the evidence. If a human-harm floor applies, state which floor was used.
 
 ## Interpretation
 
@@ -76,17 +118,17 @@ The ceiling is intentionally reserved for work arrangements where several extrem
 | **Debt-bonded brick-kiln labor** | **10.0** | Near-zero effective compensation can combine with extreme hours, severe danger, and inability to leave or inherited debt. |
 | **Bangladesh shipbreaking** | **~9.8–9.9** | Catastrophic industrial danger and toxic exposure paired with very weak compensation and long hours. |
 | **Hazardous sewer / septic-tank entry** | **~9.6–9.8** | Lethal confined-space gas exposure can sit inside extremely low-status, weakly compensated contracting arrangements. |
-| **12h × 7-day security at INR 18,000/month** | **~9.1** | Time capture and compensation are both maximum-severity even though the job itself is narrow. |
-| **Certified high-rise rope access for AED 1,600–1,900/month** | **~9.6** | Catastrophic physical exposure, weak compensation, credential burden, and personal safety responsibility stack together. |
+| **12h × 7-day security at INR 18,000/month** | **~9.1** | Time capture and compensation are both maximum-severity even though the job itself is narrow and lacks a documented lethal hazard. |
+| **Certified high-rise rope access for AED 1,600–1,900/month** | **~9.6** | Catastrophic physical exposure plus weak compensation triggers the 9.6 danger floor. |
 | **Experienced full-time live-in housekeeping at ZAR 4,000–4,250/month** | **~9.6** | Compensation, time/residence capture, experience demands, and dependency all land near the top of the scale. |
 
-An exact **10.0** should feel like the scale has run out of room.
+An exact **10.0** should feel like the scale has run out of room. The floors stop at 9.8 on purpose; 10.0 still requires an extraordinary stack of evidenced harms rather than a single dangerous feature.
 
 ## Danger Premium migration
 
-The old rubric used a separate **Danger Premium** because physical peril barely moved the main score. V2 fixes that defect by making **Physical danger** a first-class scoring dimension.
+The old rubric used a separate **Danger Premium** because physical peril barely moved the main score. V2 first fixed that defect by making **Physical danger** a first-class scoring dimension. The human-harm floor now fixes the remaining problem: a catastrophic 5/5 danger can no longer be numerically dragged down by missing salary data or a narrow scope.
 
-Older dossiers may retain a Danger Premium line as historical annotation. New and substantively revised dossiers should score danger directly inside v2. The same applies to live-in, migrant, and coercive arrangements through **Exit / dependency / coercion**.
+Older dossiers may retain a Danger Premium line as historical annotation. New and substantively revised dossiers should score danger directly inside v2 and apply the human-harm floor when warranted. The same applies to live-in, migrant, and coercive arrangements through **Exit / dependency / coercion**.
 
 ## Legacy v1 scores
 
@@ -102,6 +144,7 @@ Do not silently reinterpret an old v1 number as v2.
 - Summarize duties; keep direct excerpts short.
 - Link to the source posting or recruitment post.
 - Score only what the evidence supports. Overseas housing does not automatically prove passport confiscation or forced labor.
+- Missing pay or hours stay unscored, but missing economic data does not erase a documented lethal hazard.
 - If the listing disappears, keep the entry and mark the source inactive when known.
 - Score the **employment bargain**, never the people doing the job.
 
@@ -129,4 +172,4 @@ The global abyss adds a second vocabulary worth hunting for:
 - emergency, confined-space, hazardous-material, or heavy-equipment exposure
 - recruitment debt, wage withholding, document retention, or inability to leave
 
-None of these proves a score by itself. The evidence determines the dimension values; the worst four determine the number.
+None of these proves a score by itself. The evidence determines the dimension values; the worst four produce the base score; documented catastrophic danger or severe coercion can then raise the final score through the human-harm floors.
