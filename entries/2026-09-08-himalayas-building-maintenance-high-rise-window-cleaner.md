@@ -67,6 +67,12 @@ The project's earlier CAD $35–$40/hour intuition therefore fits better as an u
 
 The original rubric gave this job 4.8/10 because narrow scope and low emotional labor averaged away the physical reality. V2 treats catastrophic fall exposure and weak pay as the dominant facts. The job remains coherent; the bargain is still horrific.
 
+## Editorial roast
+
+This one has a beautifully simple compensation model: **the failure mode is gravity**.
+
+CAD $18/hour. Exterior high-rise glass. Fall protection. Physically demanding outdoor work. The job description is narrow because there is only so much scope creep required when one of the core responsibilities is *remain attached to the building*.
+
 ## Signature crime
 
 > Exterior high-rise window cleaning with fall protection and catastrophic downside, starting at $18/hour.
