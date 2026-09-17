@@ -50,12 +50,24 @@ A separate shelf for listings where the absurdity is less physical peril and mor
 | Score v2 | Company | Role | Listed pay | Signature crime |
 |---:|---|---|---:|---|
 | **9.2** | Marler Search Group | [Junior Software Programmer](entries/2026-09-17-marler-search-group-junior-software-programmer.md) | CAD $45k–$54k | Secret-cleared DND Command & Control software · five days in office |
+| **9.0** | Cognizant | [Senior UAT Test Analyst](entries/2026-09-17-cognizant-senior-uat-test-analyst.md) | CAD $55k–$73k | Six years + banking + onshore/offshore leadership + formal sign-off |
 | **9.0** | Soneil Spark | [Senior Embedded AI Software Engineer](entries/2026-09-17-soneil-senior-embedded-ai-software-engineer.md) | CAD $70k–$120k | Eight years embedded + AI/ML + EV controls + field validation |
 | **8.7** | Ace Software Consulting Inc. | [Junior Java Developer](entries/2026-09-17-ace-software-consulting-junior-java-developer.md) | CAD $40k | Three professional years before the “junior” salary begins |
+| **8.6** | LYNKED Inc. | [QA Engineer](entries/2026-09-17-lynked-qa-engineer.md) | From CAD $50k | Three years + automation framework + IoT/cloud/CI/CD testing |
 | **8.6** | LYNKED Inc. | [Software Developer (Intermediate)](entries/2026-09-17-lynked-intermediate-software-developer.md) | CAD $55k–$65k | AWS IoT + Docker + agentic AI + architecture at intermediate scope |
+| **7.9** | Cognizant | [Senior .NET Full Stack Developer](entries/2026-09-17-cognizant-senior-net-full-stack-developer.md) | CAD $60k–$95k | Six years + full stack + Azure + production + client technical guidance |
 | **7.9** | Accuenergy Canada Inc. | [Senior Full Stack Developer](entries/2026-09-17-accuenergy-senior-full-stack-developer.md) | CAD $50k–$80k | Senior full-stack + APIs + DB + security + CI/CD + production support |
 
 The Java entry remains the purest specimen: three professional years, forty thousand Canadian dollars.
+
+## Canadian Office & Service Lowball Cabinet — v2
+
+A small shelf for Canadian roles where ordinary-looking titles conceal management, credential or administrative burdens that make the pay especially musical.
+
+| Score v2 | Company | Role | Listed pay | Signature crime |
+|---:|---|---|---:|---|
+| **8.0** | Aerosports Parks Scarborough-Toronto | [Shift Manager](entries/2026-09-17-aerosports-parks-shift-manager-scarborough.md) | CAD $20–$24/hour | Three years management + staff + cash + inventory + profitability + evaluations |
+| **7.6** | Toronto College of Dental Hygiene and Auxiliaries Inc. | [Admission Coordinator](entries/2026-09-17-toronto-college-dental-hygiene-admission-coordinator.md) | CAD $45k–$48k | Degree-gated exams + transcript evaluation + contracts + Student Aid |
 
 ## Canadian Minimum-Wage Hall of Fame — v2
 
@@ -194,7 +206,7 @@ A strong finished entry includes:
 
 ## Status
 
-Started in Toronto in September 2026. **Fifty-eight posting/recruitment specimens** are indexed, the Global Job-Board Abyss is live, the Canadian Minimum-Wage Hall of Fame is open, and v2 scoring migration has begun.
+Started in Toronto in September 2026. **Sixty-three posting/recruitment specimens** are indexed, the Global Job-Board Abyss is live, the Canadian Minimum-Wage Hall of Fame is open, and v2 scoring migration has begun.
 
 ---
 

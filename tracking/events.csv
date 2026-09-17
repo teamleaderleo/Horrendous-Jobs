@@ -21,7 +21,7 @@ date,id,event,details
 2026-09-07,stark-wellness-client-care,first_observed,Active when observed on Indeed
 2026-09-07,painless-medicine-admin-assistant,first_observed,Active when observed on Indeed; Job Bank also indexed partner listing
 2026-09-07,canadian-health-clinic-administrator,first_observed,Active when observed on Indeed; pay floor matched Ontario general minimum wage
-2026-09-07,activate-beauty-clinic-sales-manager,first_observed,Active when observed on Glassdoor/Indeed search results; 40–60 expected weekly hours
+2026-09-07,activate-beauty-clinic-sales-manager,first_observed,"Active when observed on Glassdoor/Indeed search results; 40–60 expected weekly hours"
 2026-09-07,morguard-building-manager,first_observed,Active when observed on Indeed; on-call and five years experience requested
 2026-09-07,curate-health-office-manager,first_observed,Active when observed on Indeed; clinic admin plus cafe/kitchen and staff supervision
 2026-09-07,hitters-fight-club-admin-manager,first_observed,Active when observed on Indeed; 30 expected weekly hours
@@ -57,3 +57,8 @@ date,id,event,details
 2026-09-17,lingua-learn-french-tutor,first_observed,"Active Canadian listing from CAD $20/hour; company requirements include degree, accredited teaching qualification, five years, adults/children, and four-skills assessment"
 2026-09-17,crs-administrative-assistant,first_observed,"Active on Job Bank; CAD $18/hour; master's/equivalent plus five years; HR coordination, budgets, policies, recruiting, contracts, staff supervision, and admin duties"
 2026-09-17,lighthouse-bistro-server-bartender,first_observed,"Active on Indeed; CAD $18.25/hour base; body asks three years of Canadian restaurant server/bartender experience plus evening/weekend availability"
+2026-09-17,cognizant-senior-uat-test-analyst,first_observed,"Active on Cognizant Careers; CAD $55,000–$73,000/year; 6+ years testing; banking UAT leadership; four office days/week"
+2026-09-17,cognizant-senior-net-full-stack,first_observed,"Active on Cognizant Careers; CAD $60,000–$95,000/year; 6+ years; .NET/React/Azure/client guidance/production support"
+2026-09-17,lynked-qa-engineer,first_observed,"Active on Indeed; from CAD $50,000/year; three years testing required; automation-framework application question"
+2026-09-17,toronto-dental-college-admission-coordinator,first_observed,"Active on Indeed; CAD $45,000–$48,000/year; bachelor's degree stated as required in body; admissions exams/transcripts/contracts/Student Aid"
+2026-09-17,aerosports-shift-manager-scarborough,first_observed,"Active on Indeed; CAD $20–$24/hour; three years retail management required; bachelor's preferred; staffing/inventory/cash/sales/evaluations/scheduling"
