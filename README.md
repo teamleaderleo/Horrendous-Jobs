@@ -57,6 +57,24 @@ A separate shelf for listings where the absurdity is less physical peril and mor
 
 The Java entry remains the purest specimen: three professional years, forty thousand Canadian dollars.
 
+## Canadian Minimum-Wage Hall of Fame — v2
+
+A cabinet for Canadian postings where experience, credentials, management responsibility, or a sprawling duty list collapses toward the legal wage floor.
+
+| Score v2 | Company | Role | Location | Listed pay | Signature crime |
+|---:|---|---|---|---:|---|
+| **9.5** | DIGI Technologies | [Robotics Programmer](entries/2026-09-17-digi-technologies-robotics-programmer.md) | Mississauga, ON | CAD $18/hour | Bachelor's + bilingual + 5 years + software/RPA/client support · five cents over Ontario minimum from Oct. 1 if unchanged |
+| **9.2** | One Step Security Inc. | [Security Guard](entries/2026-09-17-one-step-security-security-guard-toronto.md) | Toronto, ON | CAD $17.60/hour | Three years + security licence + G licence + own vehicle · exact Ontario minimum when observed |
+| **9.2** | Lingua Learn | [French Tutor / Teacher](entries/2026-09-17-lingua-learn-french-tutor.md) | Quebec City / remote | From CAD $20/hour | Degree + accredited teaching qualification + five years + adults/kids + formal language assessment |
+| **9.0** | AI CARDIO | [Medical Office Assistant](entries/2026-09-17-ai-cardio-medical-office-assistant.md) | Vancouver, BC | CAD $18.25–$22/hour | Two years MOA + EMR + medical terminology + insurance/care coordination · base at B.C. minimum |
+| **9.0** | Aramark Canada Ltd. | [Food Service Supervisor](entries/2026-09-17-aramark-food-service-supervisor-halifax.md) | Halifax, NS | CAD $17/hour | Supervise 5–10 + hire + train + schedule + complaints + inventory + reports · expired posting preserved |
+| **9.0** | CRS | [Administrative Assistant](entries/2026-09-17-crs-administrative-assistant-saint-apollinaire.md) | Saint-Apollinaire, QC | CAD $18/hour | Master's/equivalent + five years + HR + budgets + policy + recruiting + contracts + ordinary admin |
+| **8.9** | Foxy Box Victoria | [Receptionist](entries/2026-09-17-foxy-box-victoria-receptionist.md) | Victoria, BC | From CAD $18.25/hour | Leadership + de-escalation + car + evenings/weekends + coverage shifts · base at B.C. minimum |
+| **7.6** | Lighthouse Bistro | [Server/Bartender](entries/2026-09-17-lighthouse-bistro-server-bartender-nanaimo.md) | Nanaimo, BC | CAD $18.25/hour base | Three years Canadian restaurant experience + evenings/weekends · base at B.C. minimum |
+| **7.2** | The Pie Hole | [Baker](entries/2026-09-17-the-pie-hole-baker-burnaby.md) | Burnaby, BC | From CAD $18.25/hour | Two years bakery experience + supervisory experience preferred · base at B.C. minimum |
+
+The DIGI listing is the purest wage-floor specimen so far: five years of programming experience, a bachelor's degree, bilingualism, broad technical scope, and CAD $18/hour.
+
 ## Legacy v1 Toronto leaderboard
 
 The table below preserves the original scores until each dossier receives a v2 pass. Treat these numbers as **v1**, not directly comparable to the v2 Abyss table above.
@@ -176,7 +194,7 @@ A strong finished entry includes:
 
 ## Status
 
-Started in Toronto in September 2026. **Forty-nine posting/recruitment specimens** are indexed, the Global Job-Board Abyss is live, and v2 scoring migration has begun.
+Started in Toronto in September 2026. **Fifty-eight posting/recruitment specimens** are indexed, the Global Job-Board Abyss is live, the Canadian Minimum-Wage Hall of Fame is open, and v2 scoring migration has begun.
 
 ---
 
