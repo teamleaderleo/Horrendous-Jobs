@@ -43,6 +43,20 @@ The ceiling is calibrated against research cases rather than pretending LinkedIn
 
 See [`ABYSS.md`](ABYSS.md) for the cabinet and [`research/global-danger-pay.md`](research/global-danger-pay.md) for the broader global reference set.
 
+## Canadian Software Lowball Cabinet — v2
+
+A separate shelf for listings where the absurdity is less physical peril and more **skill and experience demanded per Canadian dollar offered**.
+
+| Score v2 | Company | Role | Listed pay | Signature crime |
+|---:|---|---|---:|---|
+| **9.2** | Marler Search Group | [Junior Software Programmer](entries/2026-09-17-marler-search-group-junior-software-programmer.md) | CAD $45k–$54k | Secret-cleared DND Command & Control software · five days in office |
+| **9.0** | Soneil Spark | [Senior Embedded AI Software Engineer](entries/2026-09-17-soneil-senior-embedded-ai-software-engineer.md) | CAD $70k–$120k | Eight years embedded + AI/ML + EV controls + field validation |
+| **8.7** | Ace Software Consulting Inc. | [Junior Java Developer](entries/2026-09-17-ace-software-consulting-junior-java-developer.md) | CAD $40k | Three professional years before the “junior” salary begins |
+| **8.6** | LYNKED Inc. | [Software Developer (Intermediate)](entries/2026-09-17-lynked-intermediate-software-developer.md) | CAD $55k–$65k | AWS IoT + Docker + agentic AI + architecture at intermediate scope |
+| **7.9** | Accuenergy Canada Inc. | [Senior Full Stack Developer](entries/2026-09-17-accuenergy-senior-full-stack-developer.md) | CAD $50k–$80k | Senior full-stack + APIs + DB + security + CI/CD + production support |
+
+The Java entry remains the purest specimen: three professional years, forty thousand Canadian dollars.
+
 ## Legacy v1 Toronto leaderboard
 
 The table below preserves the original scores until each dossier receives a v2 pass. Treat these numbers as **v1**, not directly comparable to the v2 Abyss table above.
@@ -162,7 +176,7 @@ A strong finished entry includes:
 
 ## Status
 
-Started in Toronto in September 2026. **Forty-four posting/recruitment specimens** are indexed, the Global Job-Board Abyss is live, and v2 scoring migration has begun.
+Started in Toronto in September 2026. **Forty-nine posting/recruitment specimens** are indexed, the Global Job-Board Abyss is live, and v2 scoring migration has begun.
 
 ---
 

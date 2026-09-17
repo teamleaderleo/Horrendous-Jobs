@@ -58,6 +58,12 @@ A live-in resident manager responsible for the building's physical condition, re
 
 The posting combines several jobs that are commonly separated: superintendent, cleaner, maintenance worker, leasing assistant, collections contact, safety inspector and resident-service representative. The emergency-response requirement makes the availability burden unusually severe. The listing does not state the value or terms of any accommodation benefit, so the compensation score reflects only the advertised cash salary and disclosed duties.
 
+## Editorial roast
+
+**Congratulations, you are now The Building.**
+
+You reside inside your workplace. The pipes summon you. The tenants summon you. The arrears summon you. Snow falls and apparently that is your problem too. Somewhere above you exists an actual property-management corporation collecting Toronto rent, and it has decided the mortal vessel through which the entire apartment building shall manifest is worth CAD $30,000–$34,000 per year.
+
 ## Signature crime
 
 > Clean the building, lease the units, chase the rent, supervise the trades, and be fifteen minutes away from every emergency.
