@@ -45,15 +45,18 @@ Summarize the role faithfully in a short paragraph. Focus on the actual combinat
 | Exit / dependency / coercion | X | |
 
 **Worst four dimensions:** X, X, X, X  
+**Base score:** **X.X / 10**  
+**Human-harm floor:** none / 9.3 / 9.6 / 9.8 — [reason]  
 **Horrendous Score v2:** **X.X / 10**
 
-Use the canonical formula in [`SCORING.md`](../SCORING.md):
+Use the canonical rules in [`SCORING.md`](../SCORING.md):
 
 ```text
-2 × (0.50×h1 + 0.30×h2 + 0.15×h3 + 0.05×h4)
+Base = 2 × (0.50×h1 + 0.30×h2 + 0.15×h3 + 0.05×h4)
+Final = max(Base, applicable human-harm floor)
 ```
 
-where `h1 >= h2 >= h3 >= h4` are the four highest dimension scores.
+where `h1 >= h2 >= h3 >= h4` are the four highest dimension scores. Catastrophic 5/5 physical danger and severe 4–5/5 coercion can impose score floors; document the floor explicitly when one applies.
 
 ## Why it belongs here
 
@@ -73,4 +76,4 @@ Track later sightings, disappearance, reposts, salary changes, title changes, an
 
 ## Notes
 
-Add corrections, alternate listings, legacy-v1 migration notes, or other useful context here.
+Add corrections, alternate listings, legacy-v1 migration notes, human-harm-floor notes, or other useful context here.
